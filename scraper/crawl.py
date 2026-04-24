@@ -35,6 +35,21 @@ STRIP_TAGS_JS = """
 }
 """
 
+EXTRACT_LINKS_JS = """
+() => {
+    const seen = new Set();
+    const links = [];
+    for (const a of document.querySelectorAll('a[href]')) {
+        const href = a.href;
+        const text = a.innerText.trim().substring(0, 200);
+        if (!href || href.startsWith('javascript') || href === '#' || seen.has(href)) continue;
+        seen.add(href);
+        links.push({href, text});
+    }
+    return links;
+}
+"""
+
 
 async def _navigate(page, url: str):
     """Navigate with domcontentloaded, then briefly try networkidle."""
@@ -75,6 +90,12 @@ async def scrape_company(page, company: str, careers_url: str) -> dict:
         except Exception as e:
             return _error(company, careers_url, scraped_at, f"text extraction failed: {e}", final_url)
 
+        # Extract all links from the page
+        try:
+            links = await page.evaluate(EXTRACT_LINKS_JS)
+        except Exception:
+            links = []
+
         if not text or len(text.strip()) < 200:
             return _error(company, careers_url, scraped_at, "insufficient_content", final_url)
 
@@ -82,6 +103,7 @@ async def scrape_company(page, company: str, careers_url: str) -> dict:
             "company": company,
             "careers_url": careers_url,
             "final_url": final_url,
+            "links": links,
             "text": text.strip(),
             "scraped_at": scraped_at,
             "error": None,
