@@ -4,21 +4,28 @@ import json
 import re
 from pathlib import Path
 
+from openpyxl import Workbook
+from openpyxl.styles import Alignment, Font, PatternFill
+from openpyxl.utils import get_column_letter
+
 
 def load_profile() -> dict:
     return json.loads(Path("profile.json").read_text(encoding="utf-8"))
 
 
 def load_scraped() -> list[dict]:
-    results = []
-    for line in Path("data/scraped_roles.jsonl").read_text(encoding="utf-8").strip().splitlines():
-        try:
-            r = json.loads(line)
-        except json.JSONDecodeError:
-            continue
-        if r.get("text") and not r.get("error"):
-            results.append(r)
-    return results
+    path = Path("data/scraped_roles.json")
+    if not path.exists():
+        legacy = Path("data/scraped_roles.jsonl")
+        raw: list[dict] = []
+        with legacy.open("r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if line:
+                    raw.append(json.loads(line))
+    else:
+        raw = json.loads(path.read_text(encoding="utf-8"))
+    return [r for r in raw if r.get("text") and not r.get("error")]
 
 
 # Keywords that indicate a link points to an individual job posting
@@ -200,6 +207,85 @@ def main():
         encoding="utf-8",
     )
     print(f"\nFull results ({len(results)} matches) saved to {out_path}")
+
+    xlsx_path = Path("data/matched_roles.xlsx")
+    write_excel(results, xlsx_path)
+    print(f"Excel workbook saved to {xlsx_path}")
+
+
+def write_excel(results: list[dict], path: Path) -> None:
+    """Write a single-sheet xlsx of every >0-score match.
+
+    Columns are ordered for at-a-glance triage: rank, score, company, then the
+    keyword/skill hit columns that explain *why* the score is what it is, then
+    the URLs and the discovered job links.
+    """
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Matches"
+
+    headers = [
+        "Rank",
+        "Score",
+        "Company",
+        "Role Title Hits",
+        "Preferred Keywords",
+        "Ops/Finance Hits",
+        "Tech Hits",
+        "Methodology Hits",
+        "Excluded Keywords",
+        "Careers URL",
+        "Final URL",
+        "Top Job Links",
+    ]
+    ws.append(headers)
+
+    header_font = Font(bold=True, color="FFFFFF")
+    header_fill = PatternFill("solid", fgColor="305496")
+    for col_idx, _ in enumerate(headers, start=1):
+        cell = ws.cell(row=1, column=col_idx)
+        cell.font = header_font
+        cell.fill = header_fill
+        cell.alignment = Alignment(horizontal="left", vertical="center")
+    ws.freeze_panes = "A2"
+
+    excluded_fill = PatternFill("solid", fgColor="F8CBAD")
+    wrap = Alignment(wrap_text=True, vertical="top")
+
+    for rank, r in enumerate(results, start=1):
+        s = r["scores"]
+        job_links_cell = "\n".join(
+            f"{jl['title'][:80]} — {jl['url']}" for jl in r.get("job_links", [])[:8]
+        )
+        row = [
+            rank,
+            s["total"],
+            r["company"],
+            ", ".join(s["role_title_hits"]),
+            ", ".join(s["preferred_keywords"]),
+            ", ".join(s["ops_finance_hits"]),
+            ", ".join(s["tech_hits"]),
+            ", ".join(s["method_hits"]),
+            ", ".join(s["exclude_hits"]),
+            r["careers_url"],
+            r["final_url"],
+            job_links_cell,
+        ]
+        ws.append(row)
+        excel_row = ws.max_row
+        for col_idx in range(1, len(headers) + 1):
+            ws.cell(row=excel_row, column=col_idx).alignment = wrap
+        # Visually flag rows that hit an exclusion keyword.
+        if s["exclude_hits"]:
+            for col_idx in range(1, len(headers) + 1):
+                ws.cell(row=excel_row, column=col_idx).fill = excluded_fill
+
+    column_widths = [6, 7, 28, 38, 28, 28, 24, 20, 20, 45, 45, 70]
+    for col_idx, width in enumerate(column_widths, start=1):
+        ws.column_dimensions[get_column_letter(col_idx)].width = width
+
+    path.parent.mkdir(parents=True, exist_ok=True)
+    wb.save(path)
 
 
 if __name__ == "__main__":

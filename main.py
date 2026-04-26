@@ -1,4 +1,4 @@
-"""Orchestrator: parse repo, crawl career pages, write JSONL."""
+"""Orchestrator: parse repo, crawl career pages, write JSON array."""
 
 import asyncio
 from pathlib import Path
@@ -6,7 +6,7 @@ from pathlib import Path
 from scraper.parse_repo import parse_companies
 from scraper.crawl import crawl_all
 
-OUTPUT_PATH = Path("data/scraped_roles.jsonl")
+OUTPUT_PATH = Path("data/scraped_roles.json")
 PROGRESS_INTERVAL = 50
 
 
@@ -35,15 +35,10 @@ def main():
     print(f"Stage 2+3: Crawling career pages -> {OUTPUT_PATH}")
     progress_cb = make_progress_cb(total)
 
-    asyncio.run(crawl_all(companies, OUTPUT_PATH, progress_cb=progress_cb))
+    results = asyncio.run(crawl_all(companies, OUTPUT_PATH, progress_cb=progress_cb))
 
-    # Final count
-    if OUTPUT_PATH.exists():
-        lines = OUTPUT_PATH.read_text(encoding="utf-8").strip().splitlines()
-        errors = sum(1 for l in lines if '"error": null' not in l)
-        print(f"\nDone. {len(lines)} records written, {errors} with errors -> {OUTPUT_PATH}")
-    else:
-        print("Done (no output file found).")
+    errors = sum(1 for r in results if r.get("error"))
+    print(f"\nDone. {len(results)} records written, {errors} with errors -> {OUTPUT_PATH}")
 
 
 if __name__ == "__main__":

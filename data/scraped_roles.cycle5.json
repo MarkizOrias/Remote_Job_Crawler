@@ -1,0 +1,886 @@
+[
+  {
+    "company": "42 Technologies",
+    "careers_url": "https://angel.co/company/42",
+    "final_url": "https://wellfound.com/company/42",
+    "scraped_at": "2026-04-25T22:40:49Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "abiturma GmbH",
+    "careers_url": "https://www.abiturma.de/jobs",
+    "final_url": "https://abiturma.de/jobs/",
+    "scraped_at": "2026-04-25T22:40:51Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Adaface",
+    "careers_url": "https://angel.co/company/adaface/jobs",
+    "final_url": "https://wellfound.com/company/adaface/jobs",
+    "scraped_at": "2026-04-25T22:40:53Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Aerolab",
+    "careers_url": "http://careers.aerolab.co/",
+    "final_url": "https://careers.aerolab.co/",
+    "scraped_at": "2026-04-25T22:40:59Z",
+    "error": "http_525 server error",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Alan",
+    "careers_url": "https://jobs.lever.co/alan",
+    "final_url": "https://jobs.lever.co/alan",
+    "scraped_at": "2026-04-25T22:41:01Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Andela",
+    "careers_url": "https://andela.com/join-andela/",
+    "final_url": "https://www.andela.com/join-andela",
+    "scraped_at": "2026-04-25T22:41:09Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Art & Logic",
+    "careers_url": "https://artandlogic.com/careers/",
+    "final_url": "https://artandlogic.com/careers/",
+    "scraped_at": "2026-04-25T22:41:10Z",
+    "error": null,
+    "text": "Services\n\n\tLegacy Modernization\n\tAI Software Development\n\n The AI Revolution\n\n\tSoftware Development\n\tMobile App Development\n\tWeb/Cloud App Development\n\tData Science\n\tUX/UI Design\n\nCase Studies\n\n\tUp ’n go\n\tSensor Networks\n\tMendola Artist Representatives\n\tCarousel Designs\n\teliteUSA\n\tECHO Test + Measurement\n\tLDARtools\n\tTheatre Development Fund\n\tBiomedical Software\n\tPro Audio\n\nBlog\nVideos\nAbout Us\n\n\tCareers\n\nContact Us\nBook A Call\n\n Select Page\n\n Services\n\n\tLegacy Modernization\n\tAI Software Development\n\n The AI Revolution\n\n\tSoftware Development\n\tMobile App Development\n\tWeb/Cloud App Development\n\tData Science\n\tUX/UI Design\n\nCase Studies\n\n\tUp ’n go\n\tSensor Networks\n\tMendola Artist Representatives\n\tCarousel Designs\n\teliteUSA\n\tECHO Test + Measurement\n\tLDARtools\n\tTheatre Development Fund\n\tBiomedical Software\n\tPro Audio\n\nBlog\nVideos\nAbout Us\n\n\tCareers\n\nContact Us\nBook A Call\n\n current openings\n\n Services\n\n Artificial Intelligence (AI)\n\n Software Developmemt\n\n Mobile App Development\n\n Web/Cloud App Development\n\n Data Science\n\n UI / UX Design\n\n Our Content\n\n Videos\n\n Podcast\n\n Blog\n\n About us\n\n Innovation Zones\n\n Legacy Software Modernization\n\n Artificial Intelligence (AI)\n\n AI/Vibe Coding Rescue\n\n MVP Development\n\n Data Acquisition and Automation\n\n Your Next Big Thing\n\n Software as a Medical Device (SaMD)\n\n Secure Software Development / SSDLC\n\n Pro Audio Software\n\n Get in Touch\n\n Contact us\n\n Book a Call\n\n Careers\n\n Art+Logic has been designing and developing innovative custom software since 1991. We have built software for over 900 clients from a diverse set of industries including education, aerospace, music technology, consumer electronics, entertainment, financial services, and more. Coding the “impossible.”®\n\n PASADENA, CALIFORNIA(626) 427-7184\n\n FollowFollowFollowFollowFollowFollow\n\n © 2026 Art+Logic, Inc. All rights reserved. All trademarks associated with the registered trademark “Art & Logic®,” including but not limited to “Art+Logic” and “Art & Logic” are owned by Art & Logic, Inc.®  Terms of Use and Privacy Policy.  |  Accessibility Statement",
+    "links": [
+      {
+        "text": "Services",
+        "href": "https://artandlogic.com/software-development-services/"
+      },
+      {
+        "text": "Case Studies",
+        "href": "https://artandlogic.com/case-studies/"
+      },
+      {
+        "text": "Blog",
+        "href": "https://artandlogic.com/blog/"
+      },
+      {
+        "text": "Videos",
+        "href": "https://artandlogic.com/two-minutes-on-tech/"
+      },
+      {
+        "text": "About Us",
+        "href": "https://artandlogic.com/about-us"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://artandlogic.com/contact-us/"
+      },
+      {
+        "text": "Book A Call",
+        "href": "https://artandlogic.com/discovery-meeting/"
+      },
+      {
+        "text": "Artificial Intelligence (AI)",
+        "href": "https://artandlogic.com/ai"
+      },
+      {
+        "text": "UI / UX Design",
+        "href": "https://artandlogic.com/design-services"
+      },
+      {
+        "text": "Podcast",
+        "href": "https://artandlogic.com/podcast"
+      },
+      {
+        "text": "AI/Vibe Coding Rescue",
+        "href": "https://artandlogic.com/ai-rescue/"
+      },
+      {
+        "text": "MVP Development",
+        "href": "https://artandlogic.com/mvp-development/"
+      },
+      {
+        "text": "Data Acquisition and Automation",
+        "href": "https://artandlogic.com/data-acquisition-and-automation/"
+      },
+      {
+        "text": "Your Next Big Thing",
+        "href": "https://artandlogic.com/founders/"
+      },
+      {
+        "text": "Secure Software Development / SSDLC",
+        "href": "https://artandlogic.com/secure-software-development/"
+      },
+      {
+        "text": "Contact us",
+        "href": "https://artandlogic.com/contact"
+      },
+      {
+        "text": "Careers",
+        "href": "https://artandlogic.com/careers"
+      }
+    ]
+  },
+  {
+    "company": "Betable",
+    "careers_url": "https://corp.betable.com/careers",
+    "final_url": "https://betable.com/careers",
+    "scraped_at": "2026-04-25T22:41:11Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Bugfender",
+    "careers_url": "https://mobilejazz.com/jobs",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:16Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mobilejazz.com/jobs",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Circonus",
+    "careers_url": "https://jobs.lever.co/circonus",
+    "final_url": "https://jobs.lever.co/circonus",
+    "scraped_at": "2026-04-25T22:41:21Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Codeship",
+    "careers_url": "https://codeship.com/jobs",
+    "final_url": "https://codeship.com/jobs",
+    "scraped_at": "2026-04-25T22:41:23Z",
+    "error": "http_502 server error",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Cyber Whale",
+    "careers_url": "https://weloveremotejobs.com/employer/cyber-whale/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:27Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://weloveremotejobs.com/employer/cyber-whale/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Dev Spotlight",
+    "careers_url": "https://www.devspotlight.com/work-for-us/",
+    "final_url": "https://www.devspotlight.com/work-for-us",
+    "scraped_at": "2026-04-25T22:41:31Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Ecosmic",
+    "careers_url": "https://www.ecosmic.space/data-engineer",
+    "final_url": "https://www.ecosmic.space/data-engineer",
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Emsisoft",
+    "careers_url": "https://www.emsisoft.com/en/company/jobs/",
+    "final_url": "https://wellfound.com/company/emsisoft",
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Envoy",
+    "careers_url": "https://grnh.se/83f7cd0f2us",
+    "final_url": "https://job-boards.greenhouse.io/envoy?gh_src=83f7cd0f2us",
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Epic Games",
+    "careers_url": "https://www.epicgames.com/site/en-US/careers",
+    "final_url": "https://www.epicgames.com/site/careers/jobs",
+    "scraped_at": "2026-04-25T22:40:27Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Episource",
+    "careers_url": "https://www.episource.com/careers/",
+    "final_url": "https://www.episource.com/careers.html",
+    "scraped_at": "2026-04-25T22:40:28Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Findify",
+    "careers_url": "https://careers.findify.io",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:35Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.findify.io/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Fire Engine Red",
+    "careers_url": "https://fire-engine-red.com/general-contact-form/",
+    "final_url": "https://fire-engine-red.com/general-contact-form/",
+    "scraped_at": "2026-04-25T22:40:37Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "fleetio",
+    "careers_url": "https://www.fleetio.com/careers",
+    "final_url": "https://www.fleetio.com/careers",
+    "scraped_at": "2026-04-25T22:40:39Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Gitbook",
+    "careers_url": "https://jobs.gitbook.com/",
+    "final_url": "https://jobs.gitbook.com/",
+    "scraped_at": "2026-04-25T22:40:43Z",
+    "error": "http_522 server error",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "GitPrime",
+    "careers_url": "https://gitprime.com/jobs/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:46Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gitprime.com/jobs/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "GoldFire Agency",
+    "careers_url": "https://goldfireagency.com",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:47Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://goldfireagency.com/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Grou.ps",
+    "careers_url": "https://build.gr.ps/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:50Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://build.gr.ps/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Headforwards",
+    "careers_url": "https://www.headforwards.com/careers/",
+    "final_url": "https://headforwards.com/careers/",
+    "scraped_at": "2026-04-25T22:40:52Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Homeflic wegrow",
+    "careers_url": "https://www.homeflicwegrow.com/hiring/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:59Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.homeflicwegrow.com/hiring/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "I-Stem",
+    "careers_url": "https://wellfound.com/company/i-stem/jobs",
+    "final_url": "https://wellfound.com/company/i-stem/jobs",
+    "scraped_at": "2026-04-25T22:41:00Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Impala",
+    "careers_url": "https://boards.greenhouse.io/impala",
+    "final_url": "https://job-boards.greenhouse.io/impala",
+    "scraped_at": "2026-04-25T22:41:03Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Impira",
+    "careers_url": "https://www.impira.com/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:10Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.impira.com/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "InfluxData",
+    "careers_url": "https://boards.greenhouse.io/influxdb?gh_src=ygda3s",
+    "final_url": "https://job-boards.greenhouse.io/influxdb?gh_src=ygda3s",
+    "scraped_at": "2026-04-25T22:41:10Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Instamobile",
+    "careers_url": "https://www.instamobile.io/react-native-jobs/",
+    "final_url": "https://instamobile.io/react-native-jobs/",
+    "scraped_at": "2026-04-25T22:41:12Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "IOpipe",
+    "careers_url": "https://angel.co/iopipe",
+    "final_url": "https://wellfound.com/company/iopipe",
+    "scraped_at": "2026-04-25T22:41:17Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "iOS App Templates",
+    "careers_url": "https://www.iosapptemplates.com/ios-developers-jobs-remote",
+    "final_url": "https://iosapptemplates.com/ios-developers-jobs-remote",
+    "scraped_at": "2026-04-25T22:41:21Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Jitera",
+    "careers_url": "https://angel.co/company/iruuza/jobs",
+    "final_url": "https://wellfound.com/company/iruuza/jobs",
+    "scraped_at": "2026-04-25T22:41:25Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Jolly Good Code",
+    "careers_url": "https://jollygoodcode.com",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:31Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jollygoodcode.com/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "journy.io",
+    "careers_url": "https://angel.co/company/journy-io/jobs",
+    "final_url": "https://wellfound.com/company/journy-io/jobs",
+    "scraped_at": "2026-04-25T22:41:32Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "kea",
+    "careers_url": "https://careers.kea.ai",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:33Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.kea.ai/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Konkurenta",
+    "careers_url": "https://konkurenta.com/jobs",
+    "final_url": "https://konkurenta.com/jobs",
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "LeadIQ",
+    "careers_url": "https://leadiq.com/careers",
+    "final_url": "https://wellfound.com/company/leadiq/jobs",
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Localistico",
+    "careers_url": "https://localistico.com",
+    "final_url": "https://wellfound.com/company/localistico/jobs",
+    "scraped_at": "2026-04-25T22:40:19Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Lyseon Tech",
+    "careers_url": "https://lt.coop.br/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:28Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lt.coop.br/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Medium",
+    "careers_url": "https://jobs.lever.co/medium?team=Engineering",
+    "final_url": "https://jobs.lever.co/medium?team=Engineering",
+    "scraped_at": "2026-04-25T22:40:31Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "MetaLab",
+    "careers_url": "https://www.metalab.co/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:37Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.metalab.co/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Mobile Jazz",
+    "careers_url": "https://mobilejazz.com/jobs",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:38Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mobilejazz.com/jobs",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Mycelium",
+    "careers_url": "https://jobs.lever.co/Mycelium/",
+    "final_url": "https://jobs.lever.co/Mycelium/",
+    "scraped_at": "2026-04-25T22:40:41Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Nationwide",
+    "careers_url": "https://nationwide.eightfold.ai/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:46Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nationwide.eightfold.ai/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "New Context",
+    "careers_url": "https://www.newcontext.com/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:47Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.newcontext.com/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "NEXT",
+    "careers_url": "https://www.nexttrucking.com/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:50Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.nexttrucking.com/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "No Code No Problem",
+    "careers_url": "https://www.nocodenoprob.com",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:51Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nocodenoprob.com/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Onna",
+    "careers_url": "https://onna.com/careers/",
+    "final_url": "https://job-boards.greenhouse.io/onna",
+    "scraped_at": "2026-04-25T22:40:56Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Packlink",
+    "careers_url": "https://careers.packlink.com/jobs",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:59Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.packlink.com/jobs",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Park Assist",
+    "careers_url": "http://tech.parkassist.com/jobs/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:03Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://tech.parkassist.com/jobs/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Pathable",
+    "careers_url": "https://pathable.com/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:09Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pathable.com/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Payfully",
+    "careers_url": "https://angel.co/payfully/jobs/",
+    "final_url": "https://wellfound.com/company/payfully/jobs",
+    "scraped_at": "2026-04-25T22:41:10Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Paytm Labs",
+    "careers_url": "https://paytmlabs.com/#careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:12Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://paytmlabs.com/#careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "PeachWorks",
+    "careers_url": "https://careers.getbeyond.com/apply-now",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:16Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.getbeyond.com/apply-now",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Progress Engine",
+    "careers_url": "https://progress-engine.com/",
+    "final_url": "https://progress-engine.com/",
+    "scraped_at": "2026-04-25T22:41:21Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Quantify",
+    "careers_url": "https://angel.co/company/quantify",
+    "final_url": "https://wellfound.com/company/quantify",
+    "scraped_at": "2026-04-25T22:41:23Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Rainforest QA",
+    "careers_url": "https://www.rainforestqa.com/jobs",
+    "final_url": "https://jobs.lever.co/rainforest",
+    "scraped_at": "2026-04-25T22:41:28Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Reaction Commerce",
+    "careers_url": "http://reactioncommerce.com/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:31Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://reactioncommerce.com/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "ReactiveOps, Inc.",
+    "careers_url": "https://www.reactiveops.com/careers/site-reliability-engineer/",
+    "final_url": "https://job-boards.greenhouse.io/fairwinds",
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Remote Garage",
+    "careers_url": "https://angel.co/company/remotegarage",
+    "final_url": "https://wellfound.com/company/remotegarage",
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Research Square",
+    "careers_url": "https://www.researchsquare.com/company/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.researchsquare.com/company/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "ScrapingBee",
+    "careers_url": "https://scrapingbee.com",
+    "final_url": "https://forms.reform.app/Id4eCS/work-with-us/6wyt1u",
+    "scraped_at": "2026-04-25T22:40:27Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "SeatGeek",
+    "careers_url": "https://seatgeek.com/jobs?departments=softwareengineering&locations=all",
+    "final_url": "https://seatgeek.com/jobs?departments=softwareengineering&locations=all",
+    "scraped_at": "2026-04-25T22:40:30Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Shogun",
+    "careers_url": "https://angel.co/shogun/jobs",
+    "final_url": "https://wellfound.com/company/shogun/jobs",
+    "scraped_at": "2026-04-25T22:40:35Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "SmartCash",
+    "careers_url": "https://smartcash.cc",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:38Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://smartcash.cc/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "SmugMug",
+    "careers_url": "https://jobs.smugmug.com/",
+    "final_url": "https://jobs.smugmug.com/",
+    "scraped_at": "2026-04-25T22:40:40Z",
+    "error": "http_502 server error",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Socket Supply Co",
+    "careers_url": "https://socketsupply.co/jobs/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:46Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://socketsupply.co/jobs/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Taledo",
+    "careers_url": "https://www.taledo.com/careers",
+    "final_url": "https://www.taledo.com/careers",
+    "scraped_at": "2026-04-25T22:40:47Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Taplytics",
+    "careers_url": "https://jobs.lever.co/taplytics",
+    "final_url": "https://jobs.lever.co/taplytics",
+    "scraped_at": "2026-04-25T22:40:48Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Teleport",
+    "careers_url": "https://teleport.org",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:50Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://teleport.org/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Telestax Inc.",
+    "careers_url": "https://telestax.com/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:40:52Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://telestax.com/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "TheoremOne",
+    "careers_url": "https://jobs.lever.co/theoremonellc",
+    "final_url": "https://jobs.lever.co/theoremonellc",
+    "scraped_at": "2026-04-25T22:40:59Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Tipe",
+    "careers_url": "https://angel.co/tipe/jobs",
+    "final_url": "https://wellfound.com/company/tipe/jobs",
+    "scraped_at": "2026-04-25T22:41:00Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "TractionBoard",
+    "careers_url": "https://tractionboard.io",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:03Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://tractionboard.io/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Travis",
+    "careers_url": "https://www.travistravis.co/career",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:10Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.travistravis.co/career",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Truelogic",
+    "careers_url": "https://boards.greenhouse.io/truelogic",
+    "final_url": "https://job-boards.greenhouse.io/truelogic",
+    "scraped_at": "2026-04-25T22:41:10Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "TrussWorks",
+    "careers_url": "https://truss.works/jobs",
+    "final_url": "https://job-boards.greenhouse.io/trussworksinc",
+    "scraped_at": "2026-04-25T22:41:13Z",
+    "error": null,
+    "text": "JobGrowth and Digital Solutions Manager L5United States",
+    "links": [
+      {
+        "text": "Growth and Digital Solutions Manager L5\n\nUnited States",
+        "href": "https://job-boards.greenhouse.io/trussworksinc/jobs/4195548009"
+      }
+    ]
+  },
+  {
+    "company": "Tuft & Needle",
+    "careers_url": "https://careers.tn.com/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:20Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.tn.com/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Two",
+    "careers_url": "https://www.two.ai/careers",
+    "final_url": "https://www.two.ai/careers",
+    "scraped_at": "2026-04-25T22:41:22Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Upwork Pro",
+    "careers_url": "https://careers.upwork.com/jobs/search",
+    "final_url": "https://careers.upwork.com/jobs/search",
+    "scraped_at": "2026-04-25T22:41:27Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Veryfi",
+    "careers_url": "https://angel.co/company/veryfi/jobs",
+    "final_url": "https://wellfound.com/company/veryfi/jobs",
+    "scraped_at": "2026-04-25T22:41:31Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "VMware",
+    "careers_url": "https://careers.vmware.com/main/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:41:32Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://careers.vmware.com/main/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Voxy",
+    "careers_url": "https://jobs.lever.co/voxy",
+    "final_url": "https://jobs.lever.co/voxy",
+    "scraped_at": "2026-04-25T22:40:49Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Wolverine Trading",
+    "careers_url": "http://wolve.com/open-positions",
+    "final_url": "https://wolve.com/open-positions",
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Zaneffi",
+    "careers_url": "https://zaneffi.com/career",
+    "final_url": "https://zaneffi.com/career",
+    "scraped_at": "2026-04-25T22:40:17Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Zemoso",
+    "careers_url": "https://www.zemosolabs.com/open-positions",
+    "final_url": "https://www.zemosolabs.com/open-positions",
+    "scraped_at": "2026-04-25T22:40:27Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Zolar",
+    "careers_url": "https://www.zolar.de/karriere/stellenangebote",
+    "final_url": "https://job-boards.greenhouse.io/zolar",
+    "scraped_at": "2026-04-25T22:40:28Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  }
+]

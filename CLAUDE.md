@@ -130,3 +130,66 @@ Print a progress line every 50 companies: `[150/835] 18% done — 3 errors so fa
 - Do NOT spend time on retries for failed pages. Log the error, move on.
 - If a site redirects to a login wall or CAPTCHA, log it as an error and skip.
 - Keep the total codebase under 500 lines.
+
+---
+
+## Iterative Self-Improvement Loop (MANDATORY)
+
+After the initial scrape completes, you are NOT done. Your job is to continuously improve the success rate until you've exhausted every reasonable avenue. Follow this loop:
+
+### Step 1: Analyze Failures
+
+After each run, immediately analyze `data/scraped_roles.jsonl`:
+
+- Count successes (non-null `text` with >200 chars) vs failures (null `text` or `error` set)
+- Categorize failures into buckets: `timeout`, `insufficient_content`, `navigation_error`, `connection_refused`, `captcha/login_wall`, `empty_page`, `redirect_loop`, other
+- Print a breakdown: `Success: 612/835 (73%) | Timeout: 89 | Empty: 54 | Nav error: 41 | Other: 39`
+- Write the failure analysis to `data/failure_report.md`
+
+### Step 2: Diagnose Patterns
+
+Look at the actual failed URLs and error messages. Ask yourself:
+
+- Are many failures from the same ATS provider I'm not handling? (e.g., `smartrecruiters.com`, `jobvite.com`, `ashbyhq.com`, `breezy.hr`, `workable.com`) → **Add detection for that ATS**
+- Are timeouts happening because `networkidle` is too strict? → **Switch to `domcontentloaded` + a fixed wait for those domains**
+- Are pages loading but returning minimal text because content is inside a shadow DOM or React root that hasn't hydrated? → **Add `page.wait_for_selector()` for common job card selectors before extracting text**
+- Are redirects landing on a generic homepage instead of careers? → **Improve the heuristic link finder with new keyword patterns observed in the failures**
+- Are some sites blocking headless Chrome? → **Adjust browser fingerprint: locale, viewport, webdriver flag**
+
+### Step 3: Fix and Re-Run Failures Only
+
+- Do NOT re-scrape companies that already succeeded
+- Filter the company list to only those with errors or insufficient content
+- Apply your fixes to the heuristics/crawl logic
+- Re-run the pipeline on the filtered list
+- Merge new results into the existing JSONL (overwrite entries for re-scraped companies)
+
+### Step 4: Repeat Until Plateau
+
+- After each improvement cycle, compare the new success rate to the previous one
+- Print: `Cycle 3: 743/835 (89%) — +31 recovered this cycle`
+- Keep looping as long as each cycle recovers at least 5 new companies
+- When a cycle recovers fewer than 5, you've plateaued — stop and produce the final report
+
+### What Counts as "Done"
+
+You are done when ALL of the following are true:
+
+1. You have run **at least 3 improvement cycles** after the initial scrape
+2. The last cycle recovered **fewer than 5 companies**
+3. You have produced `data/final_report.md` containing:
+   - Total success rate and count
+   - Success rate per improvement cycle (table)
+   - List of all remaining failures with their error category and URL
+   - A summary of every heuristic/fix you added across cycles
+   - Honest assessment of what's left unfixable (e.g., companies that shut down, pure CAPTCHA walls)
+
+### Rules for the Improvement Loop
+
+- **Never stop after the first run.** The first run is a baseline, not the deliverable.
+- **Never say "good enough."** If there are fixable failures, fix them.
+- **Never repeat the same fix twice.** Each cycle must try something new.
+- **Log every change you make** between cycles so you can explain what worked.
+- **Keep the codebase under 700 lines total** even after improvements — refactor as you go, don't just bolt on hacks.
+- **Each cycle should complete in under 15 minutes** since you're only re-scraping failures.
+- **If you're stuck on a category of failures**, sample 3-5 URLs from that category, manually inspect what the page looks like (take a screenshot via Playwright if needed), and adapt your heuristics based on what you actually see.

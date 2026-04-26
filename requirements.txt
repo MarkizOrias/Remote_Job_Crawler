@@ -1,3 +1,2 @@
 playwright>=1.42.0
-aiofiles>=23.0.0
 GitPython>=3.1.0
