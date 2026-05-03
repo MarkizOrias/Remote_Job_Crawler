@@ -1,0 +1,2660 @@
+[
+  {
+    "company": "42 Technologies",
+    "careers_url": "https://angel.co/company/42",
+    "final_url": "https://wellfound.com/company/42",
+    "scraped_at": "2026-04-25T22:26:31Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "abiturma GmbH",
+    "careers_url": "https://www.abiturma.de/jobs",
+    "final_url": "https://abiturma.de/jobs/",
+    "scraped_at": "2026-04-25T22:26:38Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Adaface",
+    "careers_url": "https://angel.co/company/adaface/jobs",
+    "final_url": "https://wellfound.com/company/adaface/jobs",
+    "scraped_at": "2026-04-25T22:26:40Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Adzuna",
+    "careers_url": "https://www.adzuna.co.uk/jobs/search?cmp=31381",
+    "final_url": "https://www.adzuna.co.uk/jobs/search?cmp=31381",
+    "scraped_at": "2026-04-25T22:26:47Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Aerolab",
+    "careers_url": "http://careers.aerolab.co/",
+    "final_url": "https://careers.aerolab.co/",
+    "scraped_at": "2026-04-25T22:26:50Z",
+    "error": "http_525 server error",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Alami",
+    "careers_url": "https://alamisharia.co.id/en/career/",
+    "final_url": "https://alamisharia.co.id/en/karir/kategori/",
+    "scraped_at": "2026-04-25T22:27:00Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Alan",
+    "careers_url": "https://jobs.lever.co/alan",
+    "final_url": "https://jobs.lever.co/alan",
+    "scraped_at": "2026-04-25T22:27:04Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Andela",
+    "careers_url": "https://andela.com/join-andela/",
+    "final_url": "https://www.andela.com/join-andela",
+    "scraped_at": "2026-04-25T22:27:09Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Art & Logic",
+    "careers_url": "https://artandlogic.com/careers/",
+    "final_url": "https://job-boards.greenhouse.io/embed/job_board?for=artlogic&validityToken=bXn8TYQFRnTXKle2GckoQxY9D2eSNAXmlKLinMPzp51DZF7BATdYaLZCY7nLcTMCXCyra9rwe-p2nfmGj-SI52avoFUBYrvUIsKVxkyC1D9gt6IWbtnZ8jKAR7cHNp_WYGO23AzoWp30KAsVl61y_yjhdAxMHe5MrDiZ9O2jvtelOAuBRtP5KbLk_PulMNamcx_bVbBVDNiknHtHrundtVwEyfdRJbNXL4sl5CNhVBvtmDLpnuwIxiz6sE_cA7r6a20nSqy5E5FP-X3LxLDyCbDoaj1WSTL1vXwV9YYy6dglPgqYiz-qRGLIfXcBPKGUjbASBd6nxWidJoOM52GVpw%3D%3D",
+    "scraped_at": "2026-04-25T22:27:15Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Betable",
+    "careers_url": "https://corp.betable.com/careers",
+    "final_url": "https://betable.com/careers",
+    "scraped_at": "2026-04-25T22:27:21Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Bugfender",
+    "careers_url": "https://mobilejazz.com/jobs",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:29Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mobilejazz.com/jobs",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Cards Against Humanity",
+    "careers_url": "https://www.cardsagainsthumanity.com/careers",
+    "final_url": "https://www.cardsagainsthumanity.com/careers",
+    "scraped_at": "2026-04-25T22:27:32Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Chess",
+    "careers_url": "https://www.chess.com/jobs",
+    "final_url": "https://www.chess.com/jobs",
+    "scraped_at": "2026-04-25T22:27:34Z",
+    "error": null,
+    "text": "Work At Chess.com\n\n CHESScom\n\n Updated: Apr 3, 2026, 7:10 AM\n\n |\n\n 0\n\n |\n\n Chess.com Help\n\n Chess.com is a global team of passionate chess fans and developers. You can meet us here and read about our company here. We're always looking for great people to join the team. All of our jobs are 100% remote. We have a healthy work environment focused on well-being, respect, and memes/emotes. We communicate with Slack and positive energy beams.\nIf you love chess as much as we do, maybe this is your chance to work and do your hobby at the same time!? We have several positions we are looking to fill.\nOur 2025 Team Meetup\n\nAt Chess.com we’re just as passionate about our team members as we are about the game! Here are just a few reasons why working at Chess.com is a brilliant move!!\n\nPLEASE NOTE: We receive hundreds of applications per day and are unable to respond to individual submissions. If you have not heard back from us in 10 days, you can assume that your application did not move on to the next stage.\nWe appreciate you taking the time to let us get to know you, and we are sorry we cannot reply to each and every application.\n\nChess.com is an Equal Opportunity Employer and does not tolerate discrimination and harassment of any kind. Chess.com is committed to the principle of equal employment opportunity and providing employees with a work environment free of discrimination and harassment.\nAll employment decisions at Chess.com are determined based on business needs, job requirements and individual qualifications, without regard to race, color, religion or beliefs, family or parental status, or any other status protected by the laws or regulations in the US. Chess.com will not tolerate discrimination or harassment based on any of these characteristics.\nFind us on Glassdoor.\n\n More from CHESScom\n\n From Chess.com Open To Opening Repertoires, Everything's Open\n\n Play Chess Using Your Voice on Chess.com\n\n Articles\n\n For Beginners\n\n Strategy\n\n Tactics\n\n Scholastics\n\n Opening Theory\n\n Middlegame\n\n Endgames\n\n Amazing Games\n\n Chess Players\n\n Fun & Trivia\n\n Other\n\n Chess.com Help\n\n Authors\n\n Study Plans\n\n Curriculum for Kids\n\n Featured Articles\n\n Play Chess Using Your Voice on Chess.com\n\n The Top Chess Prizewinners In 2025, And How Much They Won\n\n Countries That Love Online Chess The Most\n\n The 10 Best Chess Players Of All Time\n\n How To Set Up A Chessboard",
+    "links": [
+      {
+        "text": "Skip to content",
+        "href": "https://www.chess.com/jobs#scroll-top-anchor"
+      },
+      {
+        "text": "Play",
+        "href": "https://www.chess.com/play"
+      },
+      {
+        "text": "Puzzles",
+        "href": "https://www.chess.com/puzzles"
+      },
+      {
+        "text": "Learn",
+        "href": "https://www.chess.com/learn"
+      },
+      {
+        "text": "Train",
+        "href": "https://www.chess.com/train"
+      },
+      {
+        "text": "Watch",
+        "href": "https://www.chess.com/watch"
+      },
+      {
+        "text": "Community",
+        "href": "https://www.chess.com/community"
+      },
+      {
+        "text": "Other",
+        "href": "https://www.chess.com/other"
+      },
+      {
+        "text": "Sign Up",
+        "href": "https://www.chess.com/register?returnUrl=https://www.chess.com/jobs"
+      },
+      {
+        "text": "Articles",
+        "href": "https://www.chess.com/articles"
+      },
+      {
+        "text": "Chess.com Help",
+        "href": "https://www.chess.com/articles/chess-com-help"
+      },
+      {
+        "text": "our company here",
+        "href": "https://www.chess.com/blog/erik/how-chess-com-s-100-person-virtual-team-works-together"
+      },
+      {
+        "text": "Find us on Glassdoor",
+        "href": "https://www.glassdoor.com/Overview/Working-at-Chess-com-EI_IE2241778.11,20.htm"
+      },
+      {
+        "text": "CHESScom",
+        "href": "https://www.chess.com/article/member/chesscom"
+      },
+      {
+        "text": "For Beginners",
+        "href": "https://www.chess.com/articles/beginners"
+      },
+      {
+        "text": "Strategy",
+        "href": "https://www.chess.com/articles/strategy"
+      },
+      {
+        "text": "Tactics",
+        "href": "https://www.chess.com/articles/tactics"
+      },
+      {
+        "text": "Scholastics",
+        "href": "https://www.chess.com/articles/scholastics"
+      },
+      {
+        "text": "Opening Theory",
+        "href": "https://www.chess.com/articles/opening-theory"
+      },
+      {
+        "text": "Middlegame",
+        "href": "https://www.chess.com/articles/middlegame"
+      },
+      {
+        "text": "Endgames",
+        "href": "https://www.chess.com/articles/endgames"
+      },
+      {
+        "text": "Amazing Games",
+        "href": "https://www.chess.com/articles/amazing-games"
+      },
+      {
+        "text": "Chess Players",
+        "href": "https://www.chess.com/articles/chess-players"
+      },
+      {
+        "text": "Fun & Trivia",
+        "href": "https://www.chess.com/articles/fun-trivia"
+      },
+      {
+        "text": "Other",
+        "href": "https://www.chess.com/articles/other"
+      },
+      {
+        "text": "Authors",
+        "href": "https://www.chess.com/articles/authors"
+      },
+      {
+        "text": "Study Plans",
+        "href": "https://www.chess.com/article/view/study-plan-directory"
+      },
+      {
+        "text": "Curriculum for Kids",
+        "href": "https://www.chess.com/article/view/free-chess-curriculum-for-parents-coaches"
+      },
+      {
+        "text": "Support",
+        "href": "https://chess.com/support"
+      },
+      {
+        "text": "Jobs",
+        "href": "https://www.chess.com/jobs"
+      },
+      {
+        "text": "Developers",
+        "href": "https://www.chess.com/club/chess-com-developer-community"
+      },
+      {
+        "text": "Cheating & Fair Play",
+        "href": "https://www.chess.com/cheating"
+      },
+      {
+        "text": "Partners",
+        "href": "https://www.chess.com/partners"
+      }
+    ]
+  },
+  {
+    "company": "Circonus",
+    "careers_url": "https://jobs.lever.co/circonus",
+    "final_url": "https://jobs.lever.co/circonus",
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Codeship",
+    "careers_url": "https://codeship.com/jobs",
+    "final_url": "https://codeship.com/jobs",
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "http_502 server error",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Cyber Whale",
+    "careers_url": "https://weloveremotejobs.com/employer/cyber-whale/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:25:50Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://weloveremotejobs.com/employer/cyber-whale/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Dev Spotlight",
+    "careers_url": "https://www.devspotlight.com/work-for-us/",
+    "final_url": "https://www.devspotlight.com/work-for-us",
+    "scraped_at": "2026-04-25T22:25:58Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Discourse",
+    "careers_url": "https://discourse.org",
+    "final_url": "https://discourse.org/jobs",
+    "scraped_at": "2026-04-25T22:26:00Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Ecosmic",
+    "careers_url": "https://www.ecosmic.space/data-engineer",
+    "final_url": "https://www.ecosmic.space/data-engineer",
+    "scraped_at": "2026-04-25T22:26:08Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Edgar",
+    "careers_url": "http://meetedgar.com/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:10Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_CONNECTION_RESET at http://meetedgar.com/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Emsisoft",
+    "careers_url": "https://www.emsisoft.com/en/company/jobs/",
+    "final_url": "https://wellfound.com/company/emsisoft",
+    "scraped_at": "2026-04-25T22:26:21Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Encora",
+    "careers_url": "https://careers.encora.com/find-more-than-job",
+    "final_url": "https://careers.encora.com/find-more-than-job",
+    "scraped_at": "2026-04-25T22:26:25Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Enok Collective",
+    "careers_url": "https://www.enok.co/",
+    "final_url": "https://enok.co/",
+    "scraped_at": "2026-04-25T22:26:28Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Envoy",
+    "careers_url": "https://grnh.se/83f7cd0f2us",
+    "final_url": "https://job-boards.greenhouse.io/envoy?gh_src=83f7cd0f2us",
+    "scraped_at": "2026-04-25T22:26:30Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Epic Games",
+    "careers_url": "https://www.epicgames.com/site/en-US/careers",
+    "final_url": "https://www.epicgames.com/site/careers/jobs",
+    "scraped_at": "2026-04-25T22:26:34Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Episource",
+    "careers_url": "https://www.episource.com/careers/",
+    "final_url": "https://www.episource.com/careers.html",
+    "scraped_at": "2026-04-25T22:26:40Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Findify",
+    "careers_url": "https://careers.findify.io",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:44Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.findify.io/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Fire Engine Red",
+    "careers_url": "https://fire-engine-red.com/general-contact-form/",
+    "final_url": "https://fire-engine-red.com/general-contact-form/",
+    "scraped_at": "2026-04-25T22:26:49Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "fleetio",
+    "careers_url": "https://www.fleetio.com/careers",
+    "final_url": "https://www.fleetio.com/careers",
+    "scraped_at": "2026-04-25T22:26:59Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Gitbook",
+    "careers_url": "https://jobs.gitbook.com/",
+    "final_url": "https://jobs.gitbook.com/",
+    "scraped_at": "2026-04-25T22:27:02Z",
+    "error": "http_522 server error",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "GitPrime",
+    "careers_url": "https://gitprime.com/jobs/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:09Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://gitprime.com/jobs/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "GoldFire Agency",
+    "careers_url": "https://goldfireagency.com",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:10Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://goldfireagency.com/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Grou.ps",
+    "careers_url": "https://build.gr.ps/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:20Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://build.gr.ps/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "HE:labs",
+    "careers_url": "https://helabs.com/br/trabalhe-conosco",
+    "final_url": "https://impulso.team/pt/404",
+    "scraped_at": "2026-04-25T22:27:24Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Headforwards",
+    "careers_url": "https://www.headforwards.com/careers/",
+    "final_url": "https://headforwards.com/careers/",
+    "scraped_at": "2026-04-25T22:27:31Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Homeflic wegrow",
+    "careers_url": "https://www.homeflicwegrow.com/hiring/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:33Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.homeflicwegrow.com/hiring/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "I-Stem",
+    "careers_url": "https://wellfound.com/company/i-stem/jobs",
+    "final_url": "https://wellfound.com/company/i-stem/jobs",
+    "scraped_at": "2026-04-25T22:27:36Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Impala",
+    "careers_url": "https://boards.greenhouse.io/impala",
+    "final_url": "https://job-boards.greenhouse.io/impala",
+    "scraped_at": "2026-04-25T22:27:42Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Impira",
+    "careers_url": "https://www.impira.com/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.impira.com/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "InfluxData",
+    "careers_url": "https://boards.greenhouse.io/influxdb?gh_src=ygda3s",
+    "final_url": "https://job-boards.greenhouse.io/influxdb?gh_src=ygda3s",
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Instamobile",
+    "careers_url": "https://www.instamobile.io/react-native-jobs/",
+    "final_url": "https://instamobile.io/react-native-jobs/",
+    "scraped_at": "2026-04-25T22:25:50Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "IOpipe",
+    "careers_url": "https://angel.co/iopipe",
+    "final_url": "https://wellfound.com/company/iopipe",
+    "scraped_at": "2026-04-25T22:26:00Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "iOS App Templates",
+    "careers_url": "https://www.iosapptemplates.com/ios-developers-jobs-remote",
+    "final_url": "https://iosapptemplates.com/ios-developers-jobs-remote",
+    "scraped_at": "2026-04-25T22:26:02Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "JBS Custom Software Solutions",
+    "careers_url": "https://www.jbssolutions.com/careers/",
+    "final_url": "https://www.jbs.dev/careers/",
+    "scraped_at": "2026-04-25T22:26:09Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Jitera",
+    "careers_url": "https://angel.co/company/iruuza/jobs",
+    "final_url": "https://wellfound.com/company/iruuza/jobs",
+    "scraped_at": "2026-04-25T22:26:17Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Jobsity",
+    "careers_url": "https://recruitment.jobsity.com/applylp",
+    "final_url": "https://recruitment.jobsity.com/applylp",
+    "scraped_at": "2026-04-25T22:26:22Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Jolly Good Code",
+    "careers_url": "https://jollygoodcode.com",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:27Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://jollygoodcode.com/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "journy.io",
+    "careers_url": "https://angel.co/company/journy-io/jobs",
+    "final_url": "https://wellfound.com/company/journy-io/jobs",
+    "scraped_at": "2026-04-25T22:26:28Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "kea",
+    "careers_url": "https://careers.kea.ai",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:33Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.kea.ai/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Konkurenta",
+    "careers_url": "https://konkurenta.com/jobs",
+    "final_url": "https://konkurenta.com/jobs",
+    "scraped_at": "2026-04-25T22:26:36Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "LeadIQ",
+    "careers_url": "https://leadiq.com/careers",
+    "final_url": "https://wellfound.com/company/leadiq/jobs",
+    "scraped_at": "2026-04-25T22:26:41Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Lifetime Value Company",
+    "careers_url": "https://www.ltvco.com/careers.html",
+    "final_url": "https://www.ltvco.com/careers.html",
+    "scraped_at": "2026-04-25T22:26:47Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Localistico",
+    "careers_url": "https://localistico.com",
+    "final_url": "https://wellfound.com/company/localistico/jobs",
+    "scraped_at": "2026-04-25T22:26:56Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Lyseon Tech",
+    "careers_url": "https://lt.coop.br/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:00Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://lt.coop.br/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Mediacurrent Interactive Solutions, LLC",
+    "careers_url": "https://www.mediacurrent.com/about/careers",
+    "final_url": "https://www.stay-current.com/about/careers",
+    "scraped_at": "2026-04-25T22:27:07Z",
+    "error": null,
+    "text": "We are a full-stack digital agency integrating ongoing experience optimization with lifecycle marketing.pause_circleplay_circleCreateappsOptimizeappsAmplifyappsWhy we're hereForged from two agencies — one obsessed with building digital products, one with growing them — we exist to solve a problem most organizations don't realize they have.Rhythm was founded in 1996 in Irvine, California. We ran lifecycle marketing and data-driven campaigns for consumer brands, healthcare companies, and enterprise organizations. We got very good at making things grow.Mediacurrent was founded in Atlanta in 2007. We built and optimized complex digital products for some of the world's most demanding organizations: universities, professional sports leagues, nonprofits, and government institutions. We got very good at building things that work.In 2025, we combined. Not because it was strategic but because it was inevitable. The clients who needed great digital products were the same clients who needed great marketing. And the ones who had both from separate agencies had nobody who owned the whole thing.How we do itSix capabilities built to work as one.Digital Product & ExperienceWe don't build and walk away. Everything we make is built to convert and built to keep getting better.Media & PerformanceTraffic that converts, instead of visits. Where most agencies hand off at the click. We own what happens after.CRM & Customer JourneyMarketing that builds relationships, not just conversions. Every touchpoint connected, tracked, and optimized.Content & CreativeCreative with a job to do. Brand, content, and storytelling that drives action. Not just awards.Data & OptimizationThe insights that close the loop. Marketing informs the product. The product improves the marketing. Repeat.Strategic ConsultingWe start by understanding your business, not just your brief. Strategy follows from there.success storiesTrusted by organizations who can't afford to get it wrongsee more workLazy Dog Restaurants(2026)View ProjectCoretec(2025)View ProjectSaugatuck Douglas(2024)View ProjectKarma(2024)View ProjectFortrea(2023)View ProjectCleveland Museum of Art(2024)View Projecthow we thinkIdeas, Insights and Newsall insightsStrategyMaking Analytics Worth Your TimeTessa ThorneDesignSomeone Has to Use This Thing: The Case for Human-Centered B2B DesignElliott MowerMarTechWhy Integration (Not AI) is the Biggest Marketing ROI Lever in 2026Elliott MowerReady to stop lighting your marketing budget on fire?Tell us what's not working. We'll tell you what we'd do about it. No pitch deck, no pressure.Nameemail addressmessageWe typically respond within one business day.Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.We are proud to be part of the Code and Theory family of agencies and the larger Stagwell Global Network.1 World Trade Center69th Floor\nNew York, NY 10007Let's keep in touchJoin our mailing list for insights and updates.Thank you! Your submission has been received!Oops! Something went wrong while submitting the form.our workinsightsaboutlegalprivacyaccessibility",
+    "links": [
+      {
+        "text": "WORK",
+        "href": "https://www.currentagency.com/work"
+      },
+      {
+        "text": "INSIGHTS",
+        "href": "https://www.currentagency.com/insights"
+      },
+      {
+        "text": "ABOUT",
+        "href": "https://www.currentagency.com/about"
+      },
+      {
+        "text": "LET'S TALK",
+        "href": "https://www.currentagency.com/contact-us"
+      },
+      {
+        "text": "SEE MORE WORK",
+        "href": "https://www.currentagency.com/#"
+      },
+      {
+        "text": "Lazy Dog Restaurants\n(\n2026\n)",
+        "href": "https://www.currentagency.com/project/lazy-dog-restaurants"
+      },
+      {
+        "text": "Coretec\n(\n2025\n)",
+        "href": "https://www.currentagency.com/project/coretec"
+      },
+      {
+        "text": "Saugatuck Douglas\n(\n2024\n)",
+        "href": "https://www.currentagency.com/project/saugatuck"
+      },
+      {
+        "text": "Karma\n(\n2024\n)",
+        "href": "https://www.currentagency.com/project/karma"
+      },
+      {
+        "text": "Fortrea\n(\n2023\n)",
+        "href": "https://www.currentagency.com/project/fortrea"
+      },
+      {
+        "text": "Cleveland Museum of Art\n(\n2024\n)",
+        "href": "https://www.currentagency.com/project/cleveland-museum-of-art"
+      },
+      {
+        "text": "STRATEGY\nMaking Analytics Worth Your Time\nTessa Thorne",
+        "href": "https://www.currentagency.com/insights/making-analytics-worth-your-time"
+      },
+      {
+        "text": "DESIGN\nSomeone Has to Use This Thing: The Case for Human-Centered B2B Design\nElliott Mower",
+        "href": "https://www.currentagency.com/insights/someone-has-to-use-this-thing-the-case-for-human-centered-b2b-design"
+      },
+      {
+        "text": "MARTECH\nWhy Integration (Not AI) is the Biggest Marketing ROI Lever in 2026\nElliott Mower",
+        "href": "https://www.currentagency.com/insights/why-integration-not-ai-is-the-biggest-marketing-roi-lever-in-2026"
+      }
+    ]
+  },
+  {
+    "company": "Medium",
+    "careers_url": "https://jobs.lever.co/medium?team=Engineering",
+    "final_url": "https://jobs.lever.co/medium?team=Engineering",
+    "scraped_at": "2026-04-25T22:27:09Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "MetaLab",
+    "careers_url": "https://www.metalab.co/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:15Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.metalab.co/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Mobile Jazz",
+    "careers_url": "https://mobilejazz.com/jobs",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:21Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://mobilejazz.com/jobs",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Mycelium",
+    "careers_url": "https://jobs.lever.co/Mycelium/",
+    "final_url": "https://jobs.lever.co/Mycelium/",
+    "scraped_at": "2026-04-25T22:27:30Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Nationwide",
+    "careers_url": "https://nationwide.eightfold.ai/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:33Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://nationwide.eightfold.ai/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "nerdwallet",
+    "careers_url": "https://www.nerdwallet.com/careers/teams",
+    "final_url": "https://www.nerdwallet.com/careers/teams",
+    "scraped_at": "2026-04-25T22:27:34Z",
+    "error": null,
+    "text": "Whoops, wrong turn!\n Let's get you somewhere good.\n\n Go to our homepage\n\nNerdWallet uses targeting cookies to improve user experience on our site. Learn more in ourPrivacy policyManage preferences ContinueOpt-Out Request HonoredPreferencesView privacy policyStrictly Necessary CookiesAlways ActiveThese cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request for services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information.Targeting CookiesAlways ActiveThese cookies may be set through our site by our advertising partners. They may be used by those companies to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information, but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising.Performance CookiesAlways ActiveThese cookies allow us to count visits and traffic sources so we can measure and improve the performance of our site. They help us to know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies we will not know when you have visited our site, and will not be able to monitor its performance.Functional CookiesAlways ActiveThese cookies enable the website to provide enhanced functionality and personalisation. They may be set by us or by third party providers whose services we have added to our pages. If you do not allow these cookies then some or all of these services may not function properly.Back ButtonCookie List Search IconFilter IconClear checkbox label labelApply CancelConsent Leg.Interest checkbox label label checkbox label label checkbox label label Save",
+    "links": [
+      {
+        "text": "Explore more credit card resources",
+        "href": "https://www.nerdwallet.com/credit-cards"
+      },
+      {
+        "text": "Best credit cards",
+        "href": "https://www.nerdwallet.com/credit-cards/best"
+      },
+      {
+        "text": "Best credit card bonus offers",
+        "href": "https://www.nerdwallet.com/credit-cards/best/bonus-offers"
+      },
+      {
+        "text": "Best balance transfer credit cards",
+        "href": "https://www.nerdwallet.com/credit-cards/best/balance-transfer"
+      },
+      {
+        "text": "Best travel credit cards",
+        "href": "https://www.nerdwallet.com/credit-cards/best/travel"
+      },
+      {
+        "text": "Best cash back credit cards",
+        "href": "https://www.nerdwallet.com/credit-cards/best/cash-back"
+      },
+      {
+        "text": "Best 0% APR credit cards",
+        "href": "https://www.nerdwallet.com/credit-cards/best/zero-percent"
+      },
+      {
+        "text": "Best rewards credit cards",
+        "href": "https://www.nerdwallet.com/credit-cards/best/rewards"
+      },
+      {
+        "text": "Best airline credit cards",
+        "href": "https://www.nerdwallet.com/credit-cards/best/airline"
+      },
+      {
+        "text": "Best college student credit cards",
+        "href": "https://www.nerdwallet.com/credit-cards/best/college-student"
+      },
+      {
+        "text": "Best credit cards for groceries",
+        "href": "https://www.nerdwallet.com/credit-cards/best/groceries"
+      },
+      {
+        "text": "Compare credit cards",
+        "href": "https://www.nerdwallet.com/credit-cards/compare"
+      },
+      {
+        "text": "Card recommendation quiz",
+        "href": "https://www.nerdwallet.com/prequalify/credit-cards/apply/credit-card-purpose"
+      },
+      {
+        "text": "Travel rewards and perks",
+        "href": "https://www.nerdwallet.com/recommend/CreditScore?primaryGoal=travel"
+      },
+      {
+        "text": "Earn cash back",
+        "href": "https://www.nerdwallet.com/recommend/CreditScore?primaryGoal=cashback"
+      },
+      {
+        "text": "Pay down debt",
+        "href": "https://www.nerdwallet.com/recommend/CreditScore?primaryGoal=debt"
+      },
+      {
+        "text": "Make a big purchase",
+        "href": "https://www.nerdwallet.com/recommend/CreditScore?primaryGoal=bigpurchase"
+      },
+      {
+        "text": "Get your approval odds",
+        "href": "https://www.nerdwallet.com/m/credit-cards/analyze/get-started"
+      },
+      {
+        "text": "Credit card reviews",
+        "href": "https://www.nerdwallet.com/credit-cards/reviews"
+      },
+      {
+        "text": "Balance transfer savings calculator",
+        "href": "https://www.nerdwallet.com/credit-cards/learn/balance-transfer-calculator"
+      },
+      {
+        "text": "Credit card interest calculator",
+        "href": "https://www.nerdwallet.com/credit-cards/learn/credit-card-interest-calculator"
+      },
+      {
+        "text": "Get your free credit score",
+        "href": "https://www.nerdwallet.com/p/free-credit-score"
+      },
+      {
+        "text": "Credit card basics",
+        "href": "https://www.nerdwallet.com/credit-cards/hubs/credit-card-basics"
+      },
+      {
+        "text": "Applying for a credit card",
+        "href": "https://www.nerdwallet.com/credit-cards/hubs/applying-for-a-credit-card"
+      },
+      {
+        "text": "Choosing a credit card",
+        "href": "https://www.nerdwallet.com/credit-cards/hubs/choosing-a-credit-card"
+      },
+      {
+        "text": "Managing credit card debt",
+        "href": "https://www.nerdwallet.com/credit-cards/hubs/managing-credit-card-debt"
+      },
+      {
+        "text": "Credit card resources",
+        "href": "https://www.nerdwallet.com/credit-cards/hubs/credit-card-resources"
+      },
+      {
+        "text": "Explore more banking resources",
+        "href": "https://www.nerdwallet.com/banking"
+      },
+      {
+        "text": "Explore more savings accounts",
+        "href": "https://www.nerdwallet.com/banking/hubs/savings-accounts"
+      },
+      {
+        "text": "Best high-yield savings accounts",
+        "href": "https://www.nerdwallet.com/banking/best/high-yield-online-savings-accounts"
+      },
+      {
+        "text": "Best savings accounts",
+        "href": "https://www.nerdwallet.com/banking/best/savings-accounts"
+      },
+      {
+        "text": "Savings account alternatives",
+        "href": "https://www.nerdwallet.com/banking/hubs/savings-alternatives"
+      },
+      {
+        "text": "Savings calculator",
+        "href": "https://www.nerdwallet.com/banking/calculators/savings-calculator"
+      },
+      {
+        "text": "Explore more CDs",
+        "href": "https://www.nerdwallet.com/banking/hubs/certificates-of-deposit"
+      },
+      {
+        "text": "Best CD rates",
+        "href": "https://www.nerdwallet.com/banking/best/cd-rates"
+      },
+      {
+        "text": "Best 6-month CD rates",
+        "href": "https://www.nerdwallet.com/banking/best/6-month-cd-rates"
+      },
+      {
+        "text": "Best 1-year CD rates",
+        "href": "https://www.nerdwallet.com/banking/best/1-year-cd-rates"
+      },
+      {
+        "text": "Best 5-year CD rates",
+        "href": "https://www.nerdwallet.com/banking/best/5-year-cd-rates"
+      },
+      {
+        "text": "CD calculator",
+        "href": "https://www.nerdwallet.com/banking/calculators/cd-calculator"
+      },
+      {
+        "text": "Explore more checking accounts",
+        "href": "https://www.nerdwallet.com/banking/hubs/checking-accounts"
+      },
+      {
+        "text": "Best checking accounts",
+        "href": "https://www.nerdwallet.com/banking/best/checking-accounts"
+      },
+      {
+        "text": "Best free checking accounts",
+        "href": "https://www.nerdwallet.com/banking/best/free-checking-accounts"
+      },
+      {
+        "text": "Best online checking accounts",
+        "href": "https://www.nerdwallet.com/banking/best/online-checking-accounts"
+      },
+      {
+        "text": "Checking account alternatives",
+        "href": "https://www.nerdwallet.com/banking/learn/big-bank-alternatives"
+      },
+      {
+        "text": "Best bank bonuses and promotions",
+        "href": "https://www.nerdwallet.com/banking/best/bank-bonuses-and-promotions"
+      },
+      {
+        "text": "Best online banks",
+        "href": "https://www.nerdwallet.com/banking/best/online-banks"
+      },
+      {
+        "text": "Best money market accounts",
+        "href": "https://www.nerdwallet.com/banking/best/money-market-accounts"
+      },
+      {
+        "text": "Best credit unions",
+        "href": "https://www.nerdwallet.com/banking/best/credit-unions"
+      },
+      {
+        "text": "Bank reviews",
+        "href": "https://www.nerdwallet.com/banking/reviews"
+      },
+      {
+        "text": "Compound interest calculator",
+        "href": "https://www.nerdwallet.com/banking/calculators/compound-interest-calculator"
+      },
+      {
+        "text": "Emergency fund calculator",
+        "href": "https://www.nerdwallet.com/banking/learn/emergency-fund-calculator"
+      },
+      {
+        "text": "Explore more home resources",
+        "href": "https://www.nerdwallet.com/mortgages"
+      },
+      {
+        "text": "Today's mortgage rates",
+        "href": "https://www.nerdwallet.com/mortgages/mortgage-rates"
+      },
+      {
+        "text": "30 year mortgage rates",
+        "href": "https://www.nerdwallet.com/mortgages/mortgage-rates/30-year-fixed"
+      },
+      {
+        "text": "5-year ARM rates",
+        "href": "https://www.nerdwallet.com/mortgages/mortgage-rates/5-1-arm"
+      },
+      {
+        "text": "FHA mortgage rates",
+        "href": "https://www.nerdwallet.com/mortgages/mortgage-rates/fha"
+      },
+      {
+        "text": "VA mortgage rates",
+        "href": "https://www.nerdwallet.com/mortgages/mortgage-rates/va"
+      },
+      {
+        "text": "Best mortgage lenders",
+        "href": "https://www.nerdwallet.com/mortgages/best/mortgage-lenders"
+      },
+      {
+        "text": "Best lenders for FHA loans",
+        "href": "https://www.nerdwallet.com/mortgages/best/lenders-for-fha-loans"
+      },
+      {
+        "text": "Best lenders for low- and no-down-payment",
+        "href": "https://www.nerdwallet.com/mortgages/best/no-and-low-down-payment-lenders"
+      },
+      {
+        "text": "Best VA mortgage lenders",
+        "href": "https://www.nerdwallet.com/mortgages/best/va-mortgage-lenders"
+      },
+      {
+        "text": "Today's refinance rates",
+        "href": "https://www.nerdwallet.com/mortgages/refinance-rates"
+      },
+      {
+        "text": "Best refinance lenders",
+        "href": "https://www.nerdwallet.com/mortgages/best/refinance-lenders"
+      },
+      {
+        "text": "15-year fixed refinance rates",
+        "href": "https://www.nerdwallet.com/mortgages/mortgage-rates/15-year-fixed"
+      },
+      {
+        "text": "Best cash-out refinance lenders",
+        "href": "https://www.nerdwallet.com/mortgages/best/cash-out-refinance-lenders"
+      },
+      {
+        "text": "Best HELOC Lenders",
+        "href": "https://www.nerdwallet.com/mortgages/best/heloc-lenders"
+      },
+      {
+        "text": "Compare top mortgage lenders",
+        "href": "https://www.nerdwallet.com/mortgages/top-mortgage-lenders"
+      },
+      {
+        "text": "First-time homebuyers guide",
+        "href": "https://www.nerdwallet.com/mortgages/hubs/first-time-homebuyers"
+      },
+      {
+        "text": "How much can I borrow mortgage calculator",
+        "href": "https://www.nerdwallet.com/mortgages/calculators/how-much-can-i-borrow"
+      },
+      {
+        "text": "Mortgage lender reviews",
+        "href": "https://www.nerdwallet.com/mortgages/reviews"
+      },
+      {
+        "text": "Explore more homeownership resources",
+        "href": "https://www.nerdwallet.com/home-ownership"
+      },
+      {
+        "text": "Home value",
+        "href": "https://www.nerdwallet.com/mortgages/learn/how-to-determine-home-value"
+      },
+      {
+        "text": "Home insurance",
+        "href": "https://www.nerdwallet.com/insurance/homeowners"
+      },
+      {
+        "text": "Mortgage calculator",
+        "href": "https://www.nerdwallet.com/mortgages/calculators/mortgage-calculator"
+      },
+      {
+        "text": "Down payment calculator",
+        "href": "https://www.nerdwallet.com/mortgages/learn/how-much-down-payment-for-house"
+      },
+      {
+        "text": "How much house can I afford calculator",
+        "href": "https://www.nerdwallet.com/mortgages/calculators/how-much-house-can-i-afford"
+      },
+      {
+        "text": "Closing costs calculator",
+        "href": "https://www.nerdwallet.com/mortgages/calculators/closing-costs"
+      },
+      {
+        "text": "Cost of living calculator",
+        "href": "https://www.nerdwallet.com/cost-of-living-calculator"
+      },
+      {
+        "text": "Mortgage amortization calculator",
+        "href": "https://www.nerdwallet.com/mortgages/calculators/amortization"
+      },
+      {
+        "text": "Refinance calculator",
+        "href": "https://www.nerdwallet.com/mortgages/calculators/refinance-calculator"
+      },
+      {
+        "text": "Rent vs buy calculator",
+        "href": "https://www.nerdwallet.com/mortgages/calculators/rent-vs-buy-calculator"
+      },
+      {
+        "text": "Today's mortgage news",
+        "href": "https://www.nerdwallet.com/mortgages/news"
+      },
+      {
+        "text": "Explore more personal loan resources",
+        "href": "https://www.nerdwallet.com/personal-loans/learn"
+      },
+      {
+        "text": "Pre-qualify for a personal loan",
+        "href": "https://www.nerdwallet.com/personal-loans/pre-qualify"
+      },
+      {
+        "text": "Compare top lenders",
+        "href": "https://www.nerdwallet.com/personal-loans"
+      },
+      {
+        "text": "Personal loan reviews",
+        "href": "https://www.nerdwallet.com/personal-loans/reviews"
+      },
+      {
+        "text": "Personal loan calculator",
+        "href": "https://www.nerdwallet.com/personal-loans/calculators/loan-payment"
+      },
+      {
+        "text": "How to qualify",
+        "href": "https://www.nerdwallet.com/personal-loans/learn/what-are-the-requirements-for-a-personal-loan"
+      },
+      {
+        "text": "How to consolidate credit card debt",
+        "href": "https://www.nerdwallet.com/personal-loans/learn/how-to-consolidate-credit-card-debt"
+      },
+      {
+        "text": "Average personal loan interest rates",
+        "href": "https://www.nerdwallet.com/personal-loans/learn/average-personal-loan-rates"
+      },
+      {
+        "text": "Best debt consolidation loans",
+        "href": "https://www.nerdwallet.com/personal-loans/best/debt-consolidation-loans"
+      },
+      {
+        "text": "Best loans for bad credit",
+        "href": "https://www.nerdwallet.com/personal-loans/best/bad-credit-loans"
+      },
+      {
+        "text": "Best home improvement loans",
+        "href": "https://www.nerdwallet.com/personal-loans/best/home-improvement-loans"
+      },
+      {
+        "text": "Explore more student loan resources",
+        "href": "https://www.nerdwallet.com/student-loans"
+      },
+      {
+        "text": "Paying for college",
+        "href": "https://www.nerdwallet.com/student-loans/hubs/paying-for-college"
+      },
+      {
+        "text": "FAFSA and federal student aid",
+        "href": "https://www.nerdwallet.com/student-loans/hubs/fafsa-and-federal-student-aid"
+      },
+      {
+        "text": "Taking out student loans",
+        "href": "https://www.nerdwallet.com/student-loans/learn/how-to-get-student-loan"
+      },
+      {
+        "text": "Paying off student loans",
+        "href": "https://www.nerdwallet.com/student-loans/learn/pay-off-student-loans-fast"
+      },
+      {
+        "text": "Student loan refinance",
+        "href": "https://www.nerdwallet.com/student-loans/refinancing"
+      },
+      {
+        "text": "Student loan interest rates",
+        "href": "https://www.nerdwallet.com/student-loans/learn/student-loan-interest-rates"
+      },
+      {
+        "text": "Student loan calculator",
+        "href": "https://www.nerdwallet.com/student-loans/learn/student-loan-calculator"
+      },
+      {
+        "text": "Best private student loans",
+        "href": "https://www.nerdwallet.com/student-loans/best/private-student-loans"
+      },
+      {
+        "text": "Best graduate school loans",
+        "href": "https://www.nerdwallet.com/student-loans/best/graduate-school-loans"
+      },
+      {
+        "text": "Best student refinance lenders",
+        "href": "https://www.nerdwallet.com/student-loans/best/student-loan-refinance-companies"
+      },
+      {
+        "text": "Best parent loans for college",
+        "href": "https://www.nerdwallet.com/student-loans/best/parent-loans-college"
+      },
+      {
+        "text": "Explore more auto loan resources",
+        "href": "https://www.nerdwallet.com/auto-loans"
+      },
+      {
+        "text": "Best auto loans for good and bad credit",
+        "href": "https://www.nerdwallet.com/auto-loans/best/auto-loans-for-good-fair-and-bad-credit"
+      },
+      {
+        "text": "Best auto loans refinance loans",
+        "href": "https://www.nerdwallet.com/auto-loans/best/refinance-car-loan"
+      },
+      {
+        "text": "Best lease buyout loans",
+        "href": "https://www.nerdwallet.com/auto-loans/best/lease-buyout-loans"
+      },
+      {
+        "text": "Auto loan calculator",
+        "href": "https://www.nerdwallet.com/auto-loans/calculators/auto-loan-calculator"
+      },
+      {
+        "text": "Auto loans refinance calculator",
+        "href": "https://www.nerdwallet.com/auto-loans/calculators/auto-loan-refinance-calculator"
+      },
+      {
+        "text": "Total car cost calculator",
+        "href": "https://www.nerdwallet.com/auto-loans/learn/total-cost-owning-car"
+      },
+      {
+        "text": "Explore more insurance resources",
+        "href": "https://www.nerdwallet.com/insurance"
+      },
+      {
+        "text": "Explore more auto insurance resources",
+        "href": "https://www.nerdwallet.com/insurance/auto"
+      },
+      {
+        "text": "Compare car insurance quotes",
+        "href": "https://www.nerdwallet.com/insurance/auto/car-insurance"
+      },
+      {
+        "text": "Best car insurance companies",
+        "href": "https://www.nerdwallet.com/insurance/auto/best-car-insurance-companies"
+      },
+      {
+        "text": "Cheapest car insurance companies",
+        "href": "https://www.nerdwallet.com/insurance/auto/cheapest-car-insurance"
+      },
+      {
+        "text": "Car insurance reviews",
+        "href": "https://www.nerdwallet.com/insurance/auto/hubs/car-insurance-reviews"
+      },
+      {
+        "text": "Auto insurance calculator",
+        "href": "https://www.nerdwallet.com/insurance/auto/car-insurance-calculator"
+      },
+      {
+        "text": "California car insurance",
+        "href": "https://www.nerdwallet.com/insurance/auto/cheap-car-insurance-california"
+      },
+      {
+        "text": "Texas car insurance",
+        "href": "https://www.nerdwallet.com/insurance/auto/cheap-car-insurance-texas"
+      },
+      {
+        "text": "New York car insurance",
+        "href": "https://www.nerdwallet.com/insurance/auto/cheap-car-insurance-new-york"
+      },
+      {
+        "text": "Georgia car insurance",
+        "href": "https://www.nerdwallet.com/insurance/auto/cheap-car-insurance-georgia"
+      },
+      {
+        "text": "Michigan car insurance",
+        "href": "https://www.nerdwallet.com/insurance/auto/cheap-car-insurance-michigan"
+      },
+      {
+        "text": "Washington car insurance",
+        "href": "https://www.nerdwallet.com/insurance/auto/cheap-car-insurance-washington"
+      },
+      {
+        "text": "Explore more life insurance resources",
+        "href": "https://www.nerdwallet.com/insurance/life"
+      },
+      {
+        "text": "Compare life insurance quotes",
+        "href": "https://www.nerdwallet.com/insurance/life/life-insurance-quotes"
+      },
+      {
+        "text": "Best life insurance companies",
+        "href": "https://www.nerdwallet.com/insurance/life/best-life-insurance-companies"
+      },
+      {
+        "text": "Choosing a life insurance policy",
+        "href": "https://www.nerdwallet.com/insurance/life/life-insurance-policies"
+      },
+      {
+        "text": "Life insurance reviews",
+        "href": "https://www.nerdwallet.com/insurance/life/hubs/life-insurance-reviews"
+      },
+      {
+        "text": "Life insurance calculator",
+        "href": "https://www.nerdwallet.com/insurance/life/learn/how-much-life-insurance-do-i-need"
+      },
+      {
+        "text": "Best term life insurance",
+        "href": "https://www.nerdwallet.com/insurance/life/best-term-life-insurance"
+      },
+      {
+        "text": "Best whole life insurance",
+        "href": "https://www.nerdwallet.com/insurance/life/best-whole-life-insurance"
+      },
+      {
+        "text": "Best life insurance for seniors",
+        "href": "https://www.nerdwallet.com/insurance/life/best-senior-life-insurance"
+      },
+      {
+        "text": "Best burial insurance",
+        "href": "https://www.nerdwallet.com/insurance/life/best-burial-insurance"
+      },
+      {
+        "text": "Best instant life insurance",
+        "href": "https://www.nerdwallet.com/insurance/life/best-instant-life-insurance"
+      },
+      {
+        "text": "Compare home insurance quotes",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/home-insurance-quotes"
+      },
+      {
+        "text": "Best home insurance companies",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/best-home-insurance-companies"
+      },
+      {
+        "text": "Home insurance reviews",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/hubs/home-insurance-reviews"
+      },
+      {
+        "text": "Home insurance calculator",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/home-insurance-calculator"
+      },
+      {
+        "text": "Home insurance costs",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/learn/average-homeowners-insurance-cost"
+      },
+      {
+        "text": "Best home insurance in New York",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/new-york-home-insurance"
+      },
+      {
+        "text": "Best home insurance in Arizona",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/arizona-home-insurance"
+      },
+      {
+        "text": "Best home insurance in Massachusetts",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/massachusetts-home-insurance"
+      },
+      {
+        "text": "Best home insurance in Virginia",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/virginia-home-insurance"
+      },
+      {
+        "text": "Best home insurance in New Hampshire",
+        "href": "https://www.nerdwallet.com/insurance/homeowners/new-hampshire-home-insurance"
+      },
+      {
+        "text": "Explore more pet insurance resources",
+        "href": "https://www.nerdwallet.com/insurance/pet"
+      },
+      {
+        "text": "Best pet insurance",
+        "href": "https://www.nerdwallet.com/insurance/pet/best-pet-insurance-companies"
+      },
+      {
+        "text": "Cheapest pet insurance",
+        "href": "https://www.nerdwallet.com/insurance/pet/cheap-pet-insurance"
+      },
+      {
+        "text": "What pet insurance covers",
+        "href": "https://www.nerdwallet.com/insurance/pet/learn/pet-insurance-coverage"
+      },
+      {
+        "text": "Pet insurance costs",
+        "href": "https://www.nerdwallet.com/insurance/pet/learn/cost-of-pet-insurance"
+      },
+      {
+        "text": "Explore more Medicare resources",
+        "href": "https://www.nerdwallet.com/insurance/medicare"
+      },
+      {
+        "text": "How Medicare works",
+        "href": "https://www.nerdwallet.com/insurance/medicare/learn/what-is-medicare"
+      },
+      {
+        "text": "Medicare eligibility",
+        "href": "https://www.nerdwallet.com/insurance/medicare/learn/medicare-eligibility"
+      },
+      {
+        "text": "How to sign up for Medicare",
+        "href": "https://www.nerdwallet.com/insurance/medicare/learn/how-do-i-sign-up-for-medicare"
+      },
+      {
+        "text": "Medicare costs",
+        "href": "https://www.nerdwallet.com/insurance/medicare/learn/medicare-premiums-and-deductibles"
+      },
+      {
+        "text": "Best Medicare Advantage plans",
+        "href": "https://www.nerdwallet.com/insurance/medicare/best-medicare-advantage-plans"
+      },
+      {
+        "text": "Best Medigap companies",
+        "href": "https://www.nerdwallet.com/insurance/medicare/best-medigap-insurance-companies"
+      },
+      {
+        "text": "Best Medigap Plan G companies",
+        "href": "https://www.nerdwallet.com/insurance/medicare/best-medigap-plan-g-companies"
+      },
+      {
+        "text": "Best Medicare Part D plans",
+        "href": "https://www.nerdwallet.com/insurance/medicare/best-medicare-part-d-plans"
+      },
+      {
+        "text": "Best Medicare dental plans",
+        "href": "https://www.nerdwallet.com/insurance/medicare/best-medicare-dental-plans"
+      },
+      {
+        "text": "Explore more renters insurance resources",
+        "href": "https://www.nerdwallet.com/insurance/renters"
+      },
+      {
+        "text": "Best renters insurance",
+        "href": "https://www.nerdwallet.com/insurance/renters/best-renters-insurance-companies"
+      },
+      {
+        "text": "Cheapest renters insurance",
+        "href": "https://www.nerdwallet.com/insurance/renters/cheap-renters-insurance"
+      },
+      {
+        "text": "Explore more resources",
+        "href": "https://www.nerdwallet.com/finance"
+      },
+      {
+        "text": "Your credit report",
+        "href": "https://www.nerdwallet.com/finance/learn/how-to-use-annualcreditreport-com"
+      },
+      {
+        "text": "Understanding your credit score",
+        "href": "https://www.nerdwallet.com/finance/hubs/the-ultimate-credit-score-guide"
+      },
+      {
+        "text": "Using your credit",
+        "href": "https://www.nerdwallet.com/finance/learn/how-is-credit-utilization-ratio-calculated"
+      },
+      {
+        "text": "Improving your credit",
+        "href": "https://www.nerdwallet.com/finance/learn/how-to-build-credit"
+      },
+      {
+        "text": "Protecting your credit",
+        "href": "https://www.nerdwallet.com/finance/learn/how-to-freeze-credit"
+      },
+      {
+        "text": "Explore more money management",
+        "href": "https://www.nerdwallet.com/finance/hubs/money-management"
+      },
+      {
+        "text": "Saving money",
+        "href": "https://www.nerdwallet.com/finance/learn/how-to-save-money"
+      },
+      {
+        "text": "Handling bills and expenses",
+        "href": "https://www.nerdwallet.com/finance/learn/tracking-monthly-expenses"
+      },
+      {
+        "text": "Shopping",
+        "href": "https://www.nerdwallet.com/finance/hubs/shopping"
+      },
+      {
+        "text": "Financial health",
+        "href": "https://www.nerdwallet.com/finance/learn/financial-health"
+      },
+      {
+        "text": "Savings goal calculator",
+        "href": "https://www.nerdwallet.com/finance/learn/savings-goal-calculator"
+      },
+      {
+        "text": "Net worth calculator",
+        "href": "https://www.nerdwallet.com/investing/calculators/net-worth-calculator"
+      },
+      {
+        "text": "Budgeting",
+        "href": "https://www.nerdwallet.com/finance/learn/how-to-budget"
+      },
+      {
+        "text": "Free budget worksheet",
+        "href": "https://www.nerdwallet.com/finance/learn/budget-worksheet"
+      },
+      {
+        "text": "The best budget apps",
+        "href": "https://www.nerdwallet.com/finance/learn/best-budget-apps"
+      },
+      {
+        "text": "Budget calculator",
+        "href": "https://www.nerdwallet.com/finance/calculators/nerdwallet-budget-calculator"
+      },
+      {
+        "text": "Explore more money making resources",
+        "href": "https://www.nerdwallet.com/finance/hubs/making-money"
+      },
+      {
+        "text": "Gig work",
+        "href": "https://www.nerdwallet.com/finance/learn/what-is-the-gig-economy"
+      },
+      {
+        "text": "Making money online",
+        "href": "https://www.nerdwallet.com/finance/learn/game-apps-pay-real-money"
+      },
+      {
+        "text": "Explore more debt management resources",
+        "href": "https://www.nerdwallet.com/finance/hubs/paying-off-debt"
+      },
+      {
+        "text": "Paying debt",
+        "href": "https://www.nerdwallet.com/personal-loans/learn/pay-off-debt"
+      },
+      {
+        "text": "Dealing with debt collection",
+        "href": "https://www.nerdwallet.com/finance/learn/how-to-deal-with-debt-collectors"
+      },
+      {
+        "text": "Debt relief",
+        "href": "https://www.nerdwallet.com/personal-loans/learn/find-debt-relief"
+      },
+      {
+        "text": "Explore more travel resources",
+        "href": "https://www.nerdwallet.com/travel"
+      },
+      {
+        "text": "Travel insurance",
+        "href": "https://www.nerdwallet.com/travel/hubs/travel-insurance"
+      },
+      {
+        "text": "Explore more investing resources",
+        "href": "https://www.nerdwallet.com/investing"
+      },
+      {
+        "text": "Explore more investment accounts",
+        "href": "https://www.nerdwallet.com/investing/reviews"
+      },
+      {
+        "text": "Best brokerage accounts",
+        "href": "https://www.nerdwallet.com/investing/best/online-brokers-for-stock-trading"
+      },
+      {
+        "text": "Best robo-advisors",
+        "href": "https://www.nerdwallet.com/investing/best/robo-advisors"
+      },
+      {
+        "text": "Best trading platforms",
+        "href": "https://www.nerdwallet.com/investing/best/online-brokers-platforms-for-day-trading"
+      },
+      {
+        "text": "Best online brokers for beginners",
+        "href": "https://www.nerdwallet.com/investing/best/online-brokers-for-beginners"
+      },
+      {
+        "text": "Best Roth IRA accounts",
+        "href": "https://www.nerdwallet.com/retirement/best/roth-ira-accounts"
+      },
+      {
+        "text": "Best IRA accounts",
+        "href": "https://www.nerdwallet.com/retirement/best/ira-accounts"
+      },
+      {
+        "text": "Best investing apps",
+        "href": "https://www.nerdwallet.com/investing/best/investment-apps"
+      },
+      {
+        "text": "Best investments right now",
+        "href": "https://www.nerdwallet.com/investing/learn/the-best-investments-right-now"
+      },
+      {
+        "text": "Stocks",
+        "href": "https://www.nerdwallet.com/investing/hubs/stocks"
+      },
+      {
+        "text": "Funds",
+        "href": "https://www.nerdwallet.com/investing/learn/how-to-invest-in-mutual-funds"
+      },
+      {
+        "text": "Bonds",
+        "href": "https://www.nerdwallet.com/investing/hubs/bonds"
+      },
+      {
+        "text": "Cryptocurrency",
+        "href": "https://www.nerdwallet.com/investing/hubs/cryptocurrency"
+      },
+      {
+        "text": "Real estate and alternative investments",
+        "href": "https://www.nerdwallet.com/investing/hubs/real-estate-alternative-investments"
+      },
+      {
+        "text": "Explore more retirement resources",
+        "href": "https://www.nerdwallet.com/retirement"
+      },
+      {
+        "text": "Roth IRA basics",
+        "href": "https://www.nerdwallet.com/retirement/learn/what-is-a-roth-ira"
+      },
+      {
+        "text": "IRA basics",
+        "href": "https://www.nerdwallet.com/retirement/learn/learn-about-ira-accounts"
+      },
+      {
+        "text": "401(k)s",
+        "href": "https://www.nerdwallet.com/retirement/learn/what-is-a-401k"
+      },
+      {
+        "text": "Self-employed retirement plans",
+        "href": "https://www.nerdwallet.com/retirement/learn/retirement-plans-self-employed"
+      },
+      {
+        "text": "Social Security",
+        "href": "https://www.nerdwallet.com/investing/hubs/social-security"
+      },
+      {
+        "text": "Retirement calculator",
+        "href": "https://www.nerdwallet.com/investing/calculators/retirement-calculator"
+      },
+      {
+        "text": "401(k) calculator",
+        "href": "https://www.nerdwallet.com/retirement/calculators/401k-calculator"
+      },
+      {
+        "text": "Roth IRA calculator",
+        "href": "https://www.nerdwallet.com/investing/calculators/roth-ira-calculator"
+      },
+      {
+        "text": "Investment return calculator",
+        "href": "https://www.nerdwallet.com/investing/calculators/investment-calculator"
+      },
+      {
+        "text": "Social Security benefits calculator",
+        "href": "https://www.nerdwallet.com/investing/calculators/social-security-calculator"
+      },
+      {
+        "text": "Inflation calculator",
+        "href": "https://www.nerdwallet.com/finance/calculators/inflation-calculator"
+      },
+      {
+        "text": "Best financial advisors",
+        "href": "https://www.nerdwallet.com/financial-advisors/best"
+      },
+      {
+        "text": "How to choose a financial advisor",
+        "href": "https://www.nerdwallet.com/financial-advisors/learn/how-to-choose-a-financial-advisor"
+      },
+      {
+        "text": "Financial advisor fees",
+        "href": "https://www.nerdwallet.com/financial-advisors/learn/how-much-does-a-financial-advisor-cost"
+      },
+      {
+        "text": "Explore more small-business resources",
+        "href": "https://www.nerdwallet.com/business"
+      },
+      {
+        "text": "Small-business loans",
+        "href": "https://www.nerdwallet.com/business/loans/best"
+      },
+      {
+        "text": "SBA loans",
+        "href": "https://www.nerdwallet.com/business/loans/learn/sba-loans"
+      },
+      {
+        "text": "Business lines of credit",
+        "href": "https://www.nerdwallet.com/business/loans/best/business-line-of-credit"
+      },
+      {
+        "text": "Business grants",
+        "href": "https://www.nerdwallet.com/business/loans/learn/small-business-grants"
+      },
+      {
+        "text": "Startup business loans",
+        "href": "https://www.nerdwallet.com/business/loans/learn/startup-business-loans"
+      },
+      {
+        "text": "Business loan rates",
+        "href": "https://www.nerdwallet.com/business/loans/learn/rates-fees"
+      },
+      {
+        "text": "SBA loan rates",
+        "href": "https://www.nerdwallet.com/business/loans/learn/sba-loan-rates"
+      },
+      {
+        "text": "Business loan calculator",
+        "href": "https://www.nerdwallet.com/business/loans/calculators/business-loan"
+      },
+      {
+        "text": "SBA loan calculator",
+        "href": "https://www.nerdwallet.com/business/loans/calculators/sba-loan"
+      },
+      {
+        "text": "Business bank accounts",
+        "href": "https://www.nerdwallet.com/business/banking/best/types"
+      },
+      {
+        "text": "Business credit cards",
+        "href": "https://www.nerdwallet.com/business/credit-cards/best"
+      },
+      {
+        "text": "Accounting software",
+        "href": "https://www.nerdwallet.com/business/software/best/accounting-software"
+      },
+      {
+        "text": "Business taxes",
+        "href": "https://www.nerdwallet.com/business/taxes"
+      },
+      {
+        "text": "Best 0% APR business credit cards",
+        "href": "https://www.nerdwallet.com/business/credit-cards/best/zero-percent-apr"
+      },
+      {
+        "text": "Best cash-back business credit cards",
+        "href": "https://www.nerdwallet.com/business/credit-cards/best/cash-back"
+      },
+      {
+        "text": "Best travel business credit cards",
+        "href": "https://www.nerdwallet.com/business/credit-cards/best/travel"
+      },
+      {
+        "text": "Best startup business credit cards",
+        "href": "https://www.nerdwallet.com/business/credit-cards/best/startups"
+      },
+      {
+        "text": "Best LLC business credit cards",
+        "href": "https://www.nerdwallet.com/business/credit-cards/best/llc"
+      },
+      {
+        "text": "Best business credit cards for gas",
+        "href": "https://www.nerdwallet.com/business/credit-cards/best/gas"
+      },
+      {
+        "text": "How to start a business",
+        "href": "https://www.nerdwallet.com/business/learn/how-to-start-a-business"
+      },
+      {
+        "text": "Business ideas",
+        "href": "https://www.nerdwallet.com/business/hubs/business-ideas"
+      },
+      {
+        "text": "Writing a business plan",
+        "href": "https://www.nerdwallet.com/business/learn/how-to-write-a-business-plan"
+      },
+      {
+        "text": "Entrepreneurship",
+        "href": "https://www.nerdwallet.com/business/hubs/entrepreneurship"
+      },
+      {
+        "text": "Payment processing companies",
+        "href": "https://www.nerdwallet.com/business/software/best/payment-processing-companies"
+      },
+      {
+        "text": "Business insurance",
+        "href": "https://www.nerdwallet.com/business/insurance/best"
+      },
+      {
+        "text": "Explore more tax resources",
+        "href": "https://www.nerdwallet.com/taxes"
+      },
+      {
+        "text": "Tax brackets",
+        "href": "https://www.nerdwallet.com/taxes/learn/federal-income-tax-brackets"
+      },
+      {
+        "text": "Capital gains tax rates",
+        "href": "https://www.nerdwallet.com/taxes/learn/capital-gains-tax-rates"
+      },
+      {
+        "text": "State tax rates",
+        "href": "https://www.nerdwallet.com/taxes/learn/state-income-tax-rates"
+      },
+      {
+        "text": "Federal income tax calculator",
+        "href": "https://www.nerdwallet.com/taxes/calculators/tax-calculator"
+      },
+      {
+        "text": "Capital gains tax calculator",
+        "href": "https://www.nerdwallet.com/taxes/calculators/capital-gains-tax-calculator"
+      },
+      {
+        "text": "Tax withholding",
+        "href": "https://www.nerdwallet.com/taxes/learn/how-to-fill-out-form-w4-guide"
+      },
+      {
+        "text": "Tax credits and deductions",
+        "href": "https://www.nerdwallet.com/taxes/learn/tax-deductions-tax-breaks"
+      },
+      {
+        "text": "Choosing a filing status",
+        "href": "https://www.nerdwallet.com/taxes/learn/how-to-choose-tax-filing-status"
+      },
+      {
+        "text": "Free tax filing",
+        "href": "https://www.nerdwallet.com/taxes/learn/free-tax-filing-how-to-file-taxes-for-free"
+      },
+      {
+        "text": "Best tax software",
+        "href": "https://www.nerdwallet.com/taxes/reviews"
+      },
+      {
+        "text": "Tax extensions",
+        "href": "https://www.nerdwallet.com/taxes/learn/how-to-get-tax-extension-online"
+      },
+      {
+        "text": "Filing past-due returns",
+        "href": "https://www.nerdwallet.com/taxes/learn/back-taxes-past-due-returns"
+      },
+      {
+        "text": "IRS payment plans",
+        "href": "https://www.nerdwallet.com/taxes/learn/how-to-set-up-irs-payment-plan"
+      },
+      {
+        "text": "Tax debt relief and resolution",
+        "href": "https://www.nerdwallet.com/taxes/learn/tax-relief-back-taxes"
+      },
+      {
+        "text": "Skip to content",
+        "href": "https://www.nerdwallet.com/careers/teams#main"
+      },
+      {
+        "text": "Company",
+        "href": "https://www.nerdwallet.com/company"
+      },
+      {
+        "text": "Leadership",
+        "href": "https://www.nerdwallet.com/leadership"
+      },
+      {
+        "text": "Careers",
+        "href": "https://www.nerdwallet.com/careers"
+      },
+      {
+        "text": "Corporate impact",
+        "href": "https://www.nerdwallet.com/corporate-impact"
+      },
+      {
+        "text": "Diversity & Inclusion",
+        "href": "https://www.nerdwallet.com/diversity-inclusion"
+      },
+      {
+        "text": "Editorial guidelines",
+        "href": "https://www.nerdwallet.com/l/nerdwallet-editorial-guidelines"
+      },
+      {
+        "text": "Star rating methodologies",
+        "href": "https://www.nerdwallet.com/l/rating-methodologies"
+      },
+      {
+        "text": "Editorial team",
+        "href": "https://www.nerdwallet.com/l/nerdwallet-editorial-team"
+      },
+      {
+        "text": "Press",
+        "href": "https://www.nerdwallet.com/press"
+      },
+      {
+        "text": "Press kit",
+        "href": "https://www.nerdwallet.com/kit"
+      },
+      {
+        "text": "Investors",
+        "href": "https://investors.nerdwallet.com/"
+      },
+      {
+        "text": "Help center",
+        "href": "https://support.nerdwallet.com/hc/en-us"
+      },
+      {
+        "text": "Security FAQs",
+        "href": "https://www.nerdwallet.com/l/security"
+      },
+      {
+        "text": "Supplier Code of Conduct",
+        "href": "https://www.nerdwallet.com/p/supplier-code-of-conduct"
+      },
+      {
+        "text": "California privacy policy",
+        "href": "https://www.nerdwallet.com/p/nerdwallet-california-privacy-policy"
+      },
+      {
+        "text": "LEARN MORE ABOUT THE APP",
+        "href": "https://www.nerdwallet.com/l/nerdwallet-app-track-your-wealth-and-build-your-future"
+      },
+      {
+        "text": "NMLS Consumer Access",
+        "href": "https://www.nmlsconsumeraccess.org/EntityDetails.aspx/COMPANY/1617539"
+      },
+      {
+        "text": "Licenses and Disclosures",
+        "href": "https://www.nerdwallet.com/p/nerdwallet-compare-inc-licenses-and-disclosures"
+      },
+      {
+        "text": "Insurance Licenses",
+        "href": "https://www.nerdwallet.com/nerdwallet-insurance-services-inc-licenses-and-disclosures"
+      },
+      {
+        "text": "NMLS Consumer Access",
+        "href": "https://nmlsconsumeraccess.org/"
+      },
+      {
+        "text": "FINRA",
+        "href": "https://www.finra.org/#/"
+      },
+      {
+        "text": "SIPC",
+        "href": "https://www.sipc.org/"
+      },
+      {
+        "text": "Form CRS",
+        "href": "https://reports.adviserinfo.sec.gov/crs/crs_313255.pdf"
+      },
+      {
+        "text": "Form ADV Part 2A",
+        "href": "https://adviserinfo.sec.gov/firm/brochure/313255"
+      },
+      {
+        "text": "Form CRS",
+        "href": "https://files.brokercheck.finra.org/crs_315263.pdf"
+      },
+      {
+        "text": "BrokerCheck",
+        "href": "https://brokercheck.finra.org/"
+      },
+      {
+        "text": "NerdWallet CA",
+        "href": "https://www.nerdwallet.com/ca"
+      }
+    ]
+  },
+  {
+    "company": "New Context",
+    "careers_url": "https://www.newcontext.com/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://www.newcontext.com/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "NEXT",
+    "careers_url": "https://www.nexttrucking.com/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.nexttrucking.com/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "No Code No Problem",
+    "careers_url": "https://www.nocodenoprob.com",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:25:50Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.nocodenoprob.com/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Novoda",
+    "careers_url": "https://www.novoda.com/hiring",
+    "final_url": "https://novoda.com/hiring",
+    "scraped_at": "2026-04-25T22:25:59Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Olist",
+    "careers_url": "https://olist.com/trabalhe-conosco/",
+    "final_url": "https://olist.com/trabalhe-conosco/",
+    "scraped_at": "2026-04-25T22:26:00Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Onna",
+    "careers_url": "https://onna.com/careers/",
+    "final_url": "https://job-boards.greenhouse.io/onna",
+    "scraped_at": "2026-04-25T22:26:08Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Optoro",
+    "careers_url": "https://www.optoro.com/careers/",
+    "final_url": "https://www.optoro.com/careers/",
+    "scraped_at": "2026-04-25T22:26:12Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Packlink",
+    "careers_url": "https://careers.packlink.com/jobs",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:21Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.packlink.com/jobs",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Park Assist",
+    "careers_url": "http://tech.parkassist.com/jobs/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:26Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://tech.parkassist.com/jobs/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Pathable",
+    "careers_url": "https://pathable.com/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:28Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://pathable.com/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Payfully",
+    "careers_url": "https://angel.co/payfully/jobs/",
+    "final_url": "https://wellfound.com/company/payfully/jobs",
+    "scraped_at": "2026-04-25T22:26:30Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Paytm Labs",
+    "careers_url": "https://paytmlabs.com/#careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:35Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_VERSION_OR_CIPHER_MISMATCH at https://paytmlabs.com/#careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "PeachWorks",
+    "careers_url": "https://careers.getbeyond.com/apply-now",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:40Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.getbeyond.com/apply-now",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Procenge",
+    "careers_url": "https://jobs.solides.com/procenge#",
+    "final_url": "https://vagas.solides.com.br/procenge",
+    "scraped_at": "2026-04-25T22:26:45Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Progress Engine",
+    "careers_url": "https://progress-engine.com/",
+    "final_url": "https://progress-engine.com/",
+    "scraped_at": "2026-04-25T22:26:50Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Quantify",
+    "careers_url": "https://angel.co/company/quantify",
+    "final_url": "https://wellfound.com/company/quantify",
+    "scraped_at": "2026-04-25T22:26:59Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Rainforest QA",
+    "careers_url": "https://www.rainforestqa.com/jobs",
+    "final_url": "https://jobs.lever.co/rainforest",
+    "scraped_at": "2026-04-25T22:27:03Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Reaction Commerce",
+    "careers_url": "http://reactioncommerce.com/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:09Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://reactioncommerce.com/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "ReactiveOps, Inc.",
+    "careers_url": "https://www.reactiveops.com/careers/site-reliability-engineer/",
+    "final_url": "https://job-boards.greenhouse.io/fairwinds",
+    "scraped_at": "2026-04-25T22:27:14Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Rechat",
+    "careers_url": "https://rechat.rippling-ats.com/",
+    "final_url": "https://app.rippling.com/sign-in/id",
+    "scraped_at": "2026-04-25T22:27:20Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Remote Garage",
+    "careers_url": "https://angel.co/company/remotegarage",
+    "final_url": "https://wellfound.com/company/remotegarage",
+    "scraped_at": "2026-04-25T22:27:24Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Research Square",
+    "careers_url": "https://www.researchsquare.com/company/careers",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:32Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.researchsquare.com/company/careers",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Sandhills Development",
+    "careers_url": "http://sandhillsdev.com/careers/",
+    "final_url": "https://sandhillsdev.com/careers/",
+    "scraped_at": "2026-04-25T22:27:33Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Scopic Software",
+    "careers_url": "https://scopicsoftware.com/careers/",
+    "final_url": "https://scopicsoftware.zohorecruit.com/jobs/Careers/741923000039370288/Remote-Web-Engineering-Intern-%E2%80%93-Internship-Program?source=CareerSite",
+    "scraped_at": "2026-04-25T22:27:40Z",
+    "error": null,
+    "text": "Scopic | Full time Remote Web Engineering Intern – Internship Program Remote Job | Posted on 04/07/2026 I'm interested Share job via email Share this job with your network Job listing Job details Job Information Industry IT Services Date Opened 04/07/2026 Job Type Full time Remote Job About Us Begin a career with one of the world’s largest virtual companies where you have flexibility and space to grow, just as we have been able to thanks to our team. Use the latest tools and technology to produce your best work and enjoy remuneration that’s reflective of your skills and experience. Browse our current openings and apply today. We look forward to hearing from you. Job Description\n\n This is a remote position.We are launching a Web Engineering Internship Program designed for motivated students and recent graduates who want to gain real-world experience building modern web applications.Interns will work alongside experienced engineers in a structured learning environment, contributing to real product development and gaining exposure to applications used by international clients. You will experience modern development practices, distributed teamwork, and emerging technologies, including AI-assisted development tools.This is an unpaid internship program intended for learning and training purposes. Outstanding interns may receive an offer to join the company full-time at the end of the program.As a Web Engineering Intern, you will:\n\n Support ongoing web development projects while gaining hands-on experience with modern frontend and backend technologies\n Assist in building and improving user interface components using modern frameworks (e.g., React, Vue, or similar)\n Work on structured, guided tasks to understand how web applications interact with backend APIs and services\n Observe and participate in code reviews, technical discussions, and sprint planning to learn team workflows\n Gain exposure to modern development tools, version control (Git), and AI-assisted engineering practices\n Collaborate with international engineers in a remote, team-based environment\n Develop an understanding of how scalable web applications are designed, built, and maintained\n Progress from guided tasks to more independent contributions as your skills grow\n We are looking for curious and driven individuals who are eager to learn and grow. You may be a great fit if you:\n\n Have strong written and spoken English skills (B2 level or above), as the role involves communication with international team members.\n Are currently studying Computer Science, Software Engineering, or a related field, or have recently graduated\n Have basic familiarity with web development (HTML, CSS, JavaScript, and at least one framework or backend language)\n Have worked on personal projects, websites, or GitHub repositories\n Are eager to learn and improve through hands-on experience\n Are proactive and able to work independently in a remote environment\n Previous professional experience is not required, but demonstrated initiative and curiosity are highly valued\n Application RequirementsTo help us understand your technical interests and initiative, please include at least one of the following with your application:\n\n GitHub profile or code repository\n Portfolio website or web application you have built or contributed to\n Personal programming project\n What You Will GainThis internship is designed to provide practical industry exposure, including:\n\n Hands-on experience in a real-world engineering environment\n Collaboration with international teams and experienced developers\n Exposure to modern development workflows and AI-powered tools\n Mentorship and guidance from senior engineers\n Insight into how a global remote software company operates\n Opportunity to be considered for a full-time position based on performance\n\n Our values:\n\n Scopic is an equal-opportunity employer. We value diversity and do not discriminate on the basis of race, religion, color, marital status, national origin, gender, veteran status, sexual orientation, age, or disability status.\n\n Have the skills, the drive, and the passion to join the Scopic family?\n\n Apply today to join our growing team of remote professionals from around the world.\n\n TERMS OF APPLICATIONBy submitting an application:\n\n I consent that the data provided in this form, and the attached CV, will be used for Scopic's recruiting purposes and email communications\n I consent to Scopic conducting an identity verification process as part of the hiring process. I understand that my personal information may be collected and processed for the purpose of verifying my identity in compliance with applicable laws\n\n Attention Job Seekers:\n\n Please be aware that scammers may be fraudulently using our company's name in hiring scams. To ensure your safety, all legitimate communication regarding job opportunities from our company will only come from email addresses ending with @scopicsoftware.com.\n\n I'm interested",
+    "links": [
+      {
+        "text": "Job listing",
+        "href": "https://scopicsoftware.zohorecruit.com/jobs/Careers"
+      },
+      {
+        "text": "Powered by",
+        "href": "https://www.zoho.com/recruit"
+      }
+    ]
+  },
+  {
+    "company": "ScrapingBee",
+    "careers_url": "https://scrapingbee.com",
+    "final_url": "https://forms.reform.app/Id4eCS/work-with-us/6wyt1u",
+    "scraped_at": "2026-04-25T22:26:39Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "SeatGeek",
+    "careers_url": "https://seatgeek.com/jobs?departments=softwareengineering&locations=all",
+    "final_url": "https://seatgeek.com/jobs?departments=softwareengineering&locations=all",
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Shogun",
+    "careers_url": "https://angel.co/shogun/jobs",
+    "final_url": "https://wellfound.com/company/shogun/jobs",
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Sketch",
+    "careers_url": "https://jobs.ashbyhq.com/sketch/3cd3f073-2fae-40be-a072-65d56e89a1dd",
+    "final_url": "https://www.ashbyhq.com/",
+    "scraped_at": "2026-04-25T22:25:52Z",
+    "error": null,
+    "text": "Cookie Management\nWe use cookies to collect data to improve your experience on our site. By using our website, you're agreeing to the collection of data as described in our Privacy Policy.\nConfigure Reject All Non-Essential Accept All Customize Consent Preferences We use cookies to help you navigate efficiently and perform certain functions. You will find detailed information about all cookies under each consent category below.The cookies that are categorized as \"Necessary\" are stored on your browser as they are essential for enabling the basic functionalities of the site. ... Show moreNecessaryAlways ActiveNecessary cookies are required to enable the basic features of this site, such as providing secure log-in or adjusting your consent preferences. These cookies do not store any personally identifiable data.Cookie__cf_bmDuration1 hourDescriptionThis cookie, set by Cloudflare, is used to support Cloudflare Bot Management. CookieX-CSRF-TOKENDurationsessionDescriptionDescription is currently not available.Cookiecookieyes-consentDuration1 yearDescriptionCookieYes sets this cookie to remember users' consent preferences so that their preferences are respected on subsequent visits to this site. It does not collect or store any personal information about the site visitors.Cookie_dd_sDuration1 yearDescriptionNo description available.FunctionalFunctional cookies help perform certain functionalities like sharing the content of the website on social media platforms, collecting feedback, and other third-party features.CookielidcDuration1 dayDescriptionLinkedIn sets the lidc cookie to facilitate data center selection.Cookieli_gcDuration6 monthsDescriptionLinkedin set this cookie for storing visitor's consent regarding using cookies for non-essential purposes.AnalyticsAnalytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics such as the number of visitors, bounce rate, traffic source, etc.Cookie_ga_*Duration1 year 1 month 4 daysDescriptionGoogle Analytics sets this cookie to store and count page views.Cookie_gaDuration1 year 1 month 4 daysDescriptionGoogle Analytics sets this cookie to calculate visitor, session and campaign data and track site usage for the site's analytics report. The cookie stores information anonymously and assigns a randomly generated number to recognise unique visitors.Cookie_gcl_auDuration3 monthsDescriptionGoogle Tag Manager sets the cookie to experiment advertisement efficiency of websites using their services.Cookie_leadgenie_sessionDurationsessionDescriptionDescription is currently not available.PerformancePerformance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.No cookies to display.AdvertisementAdvertisement cookies are used to provide visitors with customized advertisements based on the pages you visited previously and to analyze the effectiveness of the ad campaigns.CookiebcookieDuration1 yearDescriptionLinkedIn sets this cookie from LinkedIn share buttons and ad tags to recognize browser IDs.Cookiemuc_adsDuration2 yearsDescriptionTwitter sets this cookie to collect user behaviour and interaction data to optimize the website.Cookieguest_id_marketingDuration2 yearsDescriptionTwitter sets this cookie to identify and track the website visitor.Cookieguest_id_adsDuration2 yearsDescriptionTwitter sets this cookie to identify and track the website visitor.Cookiepersonalization_idDuration2 yearsDescriptionTwitter sets this cookie to integrate and share features for social media and also store information about how the user uses the website, for tracking and targeting.Cookieguest_idDuration2 yearsDescriptionTwitter sets this cookie to identify and track the website visitor. It registers if a user is signed in to the Twitter platform and collects information about ad preferences.UncategorizedOther uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.No cookies to display.Reject All Non-Essential Save My Preferences Accept AllPowered by Join us for Ashby's 2026 Product Keynote Livestream on May 7thRegister here What an ATS should be.The all-in-one recruiting platform that evolves at the speed of AI. ✨Empowering ambitious teams from Startups to Enterprises. Get in Touch— Ashby All-in-oneAshby PlatformATSSchedulingCRMAnalyticsAll-in-one recruiting software with AI embedded in every layerAshby is robust enough to handle your entire recruiting workflow - ATS, CRM & Sourcing, Scheduling, and Analytics - while incorporating the latest AI advancements every step of the way.Built for scale with the foundations to make AI meaningful, not just decorative. A true all-in-one solution that doesn't make you choose between platform depth and AI innovation.Learn more about AI in AshbyProduct TourProducts designed to help you excel at hiring — no matter your company stageAshby All-in-oneFor Startups1–100 employeesGet a head start on recruiting with an all-in-one product that is easy to use and will scale with you.Learn moreAshby All-in-oneFor Growth101-1000 employeesA powerful all-in-one recruiting product that will help your scaling organization excel at hiring.Learn moreAshby All-in-oneFor Enterprise1000+ employeesA proven all-in-one recruiting solution that supports large organizations with sophisticated hiring needs.Learn moreAshby AnalyticsFor your existing ATSAdvanced recruiting analytics that work on top of your existing recruiting tools.Learn moreAshby is easily the best ATS I’ve used in my 10+ years of recruiting. Loving the power of the system and the customization. I feel like it’s sparked a renewed passion for me when it comes to the abilities of an ATS. Happy we made the switch.The biggest reason I recommend Ashby is because of how much you can automate activities within different stages. When you first set up a new vacancy on Ashby, you can set up all the different things that you want to be automated between each step of the process. It saves you countless hours of admin time throughout the process.We just switched from Legacy ATS. Long story short - Ashby is amazing. They are taking an end-to-end approach to recruiting that is startup-friendly. They combine the functionality of sourcing, outreach, applicant tracking, analytics (much better than Legacy ATS), scheduling automation and more. Best of all they have a strong & responsive support team, they make on-boarding super easy. I wish Ashby had been around when we launched so we could have just started with them from the beginning.I am really impressed so far! It was tricky to get other hiring managers using other ATS's and they seem to be enjoying Ashby for collaboration.I know this sounds weird, but I’m super excited to start using Ashby very soon. Finally a proper ATS!Hear from our customersWhy Ashby?How Ashby enables hiring excellenceHiring has changed and so should your tools. Companies that excel at hiring have a strategic advantage. Our approach to building Ashby centers around ambitious teams that question the status quo:We've designed Ashby to:Be easy to get started with, powerful when you're readyEnable structured hiring end-to-endAutomate with a human touchProvide instant visibility and reduce clicksEnable custom reporting to unlock real insightsOffer one integrated system for your entire hiring processTo help you achieve:Improved candidate experienceMore accurate and fair candidate assessmentsHiring team productivityContinuous improvement through data feedback loopsVisibility for the entire hiring teamStronger, more diverse candidate pipelinesRead Our StoryHiring excellence is one conversation away.Connect with our team and learn how Ashby can help your team grow faster and better.Get in Touch© 2026 Ashby, Inc.ProductAshby All-in-one • StartupsAshby All-in-one • GrowthAshby All-in-one • EnterpriseAshby Analytics Product UpdatesIntegrationsCustomersPricingSecurityResourcesMigrating to AshbyAshby vs. GreenhouseAshby vs. LeverAshby vs. SmartRecruitersSupportBlogOffer Accepted PodcastTrends ReportTerms and PoliciesPrivacy PolicyStatusPartnersCookie PreferencesCompanyOur StoryCareersTeamDevelopersAPIVulnerability Disclosure",
+    "links": [
+      {
+        "text": "Customers",
+        "href": "https://www.ashbyhq.com/customers"
+      },
+      {
+        "text": "Pricing",
+        "href": "https://www.ashbyhq.com/pricing"
+      },
+      {
+        "text": "Our Story",
+        "href": "https://www.ashbyhq.com/story"
+      },
+      {
+        "text": "Blog",
+        "href": "https://www.ashbyhq.com/blog/all"
+      },
+      {
+        "text": "Get in Touch",
+        "href": "https://www.ashbyhq.com/request-demo"
+      },
+      {
+        "text": "Register here",
+        "href": "https://events.zoom.us/ev/AjJeH-QY_laL-zEiEkJA1WYGqBZnH8s4zc4ipfE3ghA1GZ7xNT0v~AscrjxXGKfzEJNlKpZzsoYc1Mzc6BFTh8Cdy2f8_H5N1Fc13MV57vPgT1w"
+      },
+      {
+        "text": "Learn more about AI in Ashby",
+        "href": "https://www.ashbyhq.com/ai"
+      },
+      {
+        "text": "Ashby All-in-one\nFor Startups\n1–100 employees\n\nGet a head start on recruiting with an all-in-one product that is easy to use and will scale with you.\n\nLearn more",
+        "href": "https://www.ashbyhq.com/startups"
+      },
+      {
+        "text": "Ashby All-in-one\nFor Growth\n101-1000 employees\n\nA powerful all-in-one recruiting product that will help your scaling organization excel at hiring.\n\nLearn more",
+        "href": "https://www.ashbyhq.com/growth"
+      },
+      {
+        "text": "Ashby All-in-one\nFor Enterprise\n1000+ employees\n\nA proven all-in-one recruiting solution that supports large organizations with sophisticated hiring needs.\n\nLearn more",
+        "href": "https://www.ashbyhq.com/enterprise"
+      },
+      {
+        "text": "Ashby Analytics\nFor your existing ATS\n\nAdvanced recruiting analytics that work on top of your existing recruiting tools.\n\nLearn more",
+        "href": "https://www.ashbyhq.com/analytics"
+      },
+      {
+        "text": "Product Updates",
+        "href": "https://www.ashbyhq.com/product-updates"
+      },
+      {
+        "text": "Integrations",
+        "href": "https://www.ashbyhq.com/integrations"
+      },
+      {
+        "text": "Security",
+        "href": "https://www.ashbyhq.com/resources/security"
+      },
+      {
+        "text": "Migrating to Ashby",
+        "href": "https://www.ashbyhq.com/migrating-to-ashby"
+      },
+      {
+        "text": "Ashby vs. Greenhouse",
+        "href": "https://www.ashbyhq.com/compare/ashby-vs-greenhouse"
+      },
+      {
+        "text": "Ashby vs. Lever",
+        "href": "https://www.ashbyhq.com/compare/ashby-vs-lever"
+      },
+      {
+        "text": "Ashby vs. SmartRecruiters",
+        "href": "https://www.ashbyhq.com/compare/ashby-vs-smartrecruiters"
+      },
+      {
+        "text": "Support",
+        "href": "https://www.ashbyhq.com/support"
+      },
+      {
+        "text": "Offer Accepted Podcast",
+        "href": "https://www.ashbyhq.com/podcast"
+      },
+      {
+        "text": "Trends Report",
+        "href": "https://www.ashbyhq.com/talent-trends-report"
+      },
+      {
+        "text": "Status",
+        "href": "https://status.ashbyhq.com/"
+      },
+      {
+        "text": "Partners",
+        "href": "https://www.ashbyhq.com/partners"
+      },
+      {
+        "text": "Careers",
+        "href": "https://www.ashbyhq.com/careers"
+      },
+      {
+        "text": "Team",
+        "href": "https://www.ashbyhq.com/team"
+      },
+      {
+        "text": "API",
+        "href": "https://developers.ashbyhq.com/"
+      },
+      {
+        "text": "Vulnerability Disclosure",
+        "href": "https://www.ashbyhq.com/resources/vulnerability-disclosure"
+      }
+    ]
+  },
+  {
+    "company": "SmartCash",
+    "careers_url": "https://smartcash.cc",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:00Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://smartcash.cc/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "SmugMug",
+    "careers_url": "https://jobs.smugmug.com/",
+    "final_url": "https://jobs.smugmug.com/",
+    "scraped_at": "2026-04-25T22:26:06Z",
+    "error": "http_502 server error",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Socket Supply Co",
+    "careers_url": "https://socketsupply.co/jobs/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:10Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://socketsupply.co/jobs/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Taledo",
+    "careers_url": "https://www.taledo.com/careers",
+    "final_url": "https://www.taledo.com/careers",
+    "scraped_at": "2026-04-25T22:26:18Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Taplytics",
+    "careers_url": "https://jobs.lever.co/taplytics",
+    "final_url": "https://jobs.lever.co/taplytics",
+    "scraped_at": "2026-04-25T22:26:22Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Teleport",
+    "careers_url": "https://teleport.org",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:28Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://teleport.org/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Telestax Inc.",
+    "careers_url": "https://telestax.com/careers/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:29Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://telestax.com/careers/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "TheoremOne",
+    "careers_url": "https://jobs.lever.co/theoremonellc",
+    "final_url": "https://jobs.lever.co/theoremonellc",
+    "scraped_at": "2026-04-25T22:26:34Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Tipe",
+    "careers_url": "https://angel.co/tipe/jobs",
+    "final_url": "https://wellfound.com/company/tipe/jobs",
+    "scraped_at": "2026-04-25T22:26:39Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "TractionBoard",
+    "careers_url": "https://tractionboard.io",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:42Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://tractionboard.io/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Travis",
+    "careers_url": "https://www.travistravis.co/career",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:26:49Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_SSL_PROTOCOL_ERROR at https://www.travistravis.co/career",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Truelogic",
+    "careers_url": "https://boards.greenhouse.io/truelogic",
+    "final_url": "https://job-boards.greenhouse.io/truelogic",
+    "scraped_at": "2026-04-25T22:26:57Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "TrussWorks",
+    "careers_url": "https://truss.works/jobs",
+    "final_url": "https://job-boards.greenhouse.io/embed/job_board?for=trussworksinc&validityToken=aYyMNHYLiiZqr9Ya6XrSF-_3gD16o5haBmHL68TryNNeVHr9p-X8XLoS1U1ynYbmQJ1jBVIPbe0uOYWcWW_UG15WhS06PJ-Nd5-xnCoguD9W8EqnBBK0ikUbFYfhD8cz1tUR8c_XjZFKbXzRxF0SO4AL_3TgDJ57fAk57yTlpEowSHGDtGpyrdoCW04p9TBfYAxjP2xkYXtrD6rPOyKiUIXQPWWNDID7SIYwALrZbL9uCGlmLGKvDxbxB1uRKPJ15f7LfI6JU_GOs_BRAiVET6vb639pqXBEkR7jPhM8HrO0-B-X0-LMld6hS_06Dv9qc62naJJxJCS2xbd-r_8eLw%3D%3D",
+    "scraped_at": "2026-04-25T22:27:01Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Tuft & Needle",
+    "careers_url": "https://careers.tn.com/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:09Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://careers.tn.com/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Two",
+    "careers_url": "https://www.two.ai/careers",
+    "final_url": "https://www.two.ai/careers",
+    "scraped_at": "2026-04-25T22:27:10Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Upwork Pro",
+    "careers_url": "https://careers.upwork.com/jobs/search",
+    "final_url": "https://careers.upwork.com/jobs/search",
+    "scraped_at": "2026-04-25T22:27:16Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Veryfi",
+    "careers_url": "https://angel.co/company/veryfi/jobs",
+    "final_url": "https://wellfound.com/company/veryfi/jobs",
+    "scraped_at": "2026-04-25T22:27:22Z",
+    "error": "http_403 forbidden",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "VMware",
+    "careers_url": "https://careers.vmware.com/main/",
+    "final_url": null,
+    "scraped_at": "2026-04-25T22:27:31Z",
+    "error": "timeout navigating to careers page: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://careers.vmware.com/main/",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Voxy",
+    "careers_url": "https://jobs.lever.co/voxy",
+    "final_url": "https://jobs.lever.co/voxy",
+    "scraped_at": "2026-04-25T22:27:33Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "WalletHub",
+    "careers_url": "https://wallethub.com/jobs",
+    "final_url": "https://wallethub.com/join",
+    "scraped_at": "2026-04-25T22:27:34Z",
+    "error": null,
+    "text": "home\n LoginSign UpEmail Address By signing up, I agree to the Terms and acknowledge Privacy Policy.Sign Up with Your EmailJoin Millions of WalletHubers Get Daily Credit Score Updates Full Credit Reports Improve Your Credit Score Get Better Credit Card & Loan Offers 24/7 Credit Monitoring Get Your WalletScore® Payoff Debt Faster Track Your Net Worth Budget Better Save Money with Spending Insights Lock Your TransUnion Credit Report Manage Your Subscriptions ...and many more features People Love WalletHub\nAs of Sept 2024 Award Winning App Fox BusinessBloombergCNBCThe Wall Street JournalYahoo FinanceUSA TodayFORBESThe New York Times",
+    "links": [
+      {
+        "text": "MyHub",
+        "href": "https://wallethub.com/mywallet"
+      },
+      {
+        "text": "...and many more features",
+        "href": "https://wallethub.com/upgrade"
+      },
+      {
+        "text": "Overview",
+        "href": "https://wallethub.com/premium"
+      },
+      {
+        "text": "Dark Web Scan",
+        "href": "https://wallethub.com/premium/dark-web"
+      },
+      {
+        "text": "Best Banks for Personal Loans",
+        "href": "https://wallethub.com/best-banks-for-personal-loans"
+      },
+      {
+        "text": "Same-Day Loans",
+        "href": "https://wallethub.com/edu/pl/same-day-loans/67705"
+      },
+      {
+        "text": "No Credit Check Loans",
+        "href": "https://wallethub.com/edu/pl/no-credit-check-loans/68084"
+      },
+      {
+        "text": "Best Car Insurance Near Me",
+        "href": "https://wallethub.com/car-insurance-near-me"
+      },
+      {
+        "text": "Full Coverage",
+        "href": "https://wallethub.com/edu/ci/cheapest-full-coverage-car-insurance/87274"
+      },
+      {
+        "text": "Gap Insurance",
+        "href": "https://wallethub.com/edu/ci/best-gap-insurance/94139"
+      },
+      {
+        "text": "DUI Insurance",
+        "href": "https://wallethub.com/edu/ci/dui-insurance/13542"
+      },
+      {
+        "text": "No Deposit",
+        "href": "https://wallethub.com/edu/ci/very-cheap-car-insurance-no-deposit/98676"
+      },
+      {
+        "text": "College Students",
+        "href": "https://wallethub.com/edu/ci/best-car-insurance-for-college-students/88064"
+      },
+      {
+        "text": "Teens",
+        "href": "https://wallethub.com/edu/ci/cheapest-car-insurance-for-teens/94421"
+      },
+      {
+        "text": "First-Time Drivers",
+        "href": "https://wallethub.com/edu/ci/cheaper-car-insurance-for-first-time-drivers/89402"
+      },
+      {
+        "text": "Seniors",
+        "href": "https://wallethub.com/edu/ci/best-auto-insurance-for-seniors/88292"
+      },
+      {
+        "text": "WalletLiteracy",
+        "href": "https://wallethub.com/wallet-literacy-score/"
+      },
+      {
+        "text": "Free Credit Score",
+        "href": "https://wallethub.com/free-credit-score"
+      },
+      {
+        "text": "Your Credit Score Explained",
+        "href": "https://wallethub.com/credit-score-range"
+      },
+      {
+        "text": "Auto Insurance Score",
+        "href": "https://wallethub.com/auto-insurance-score"
+      },
+      {
+        "text": "Nearby Financial Providers",
+        "href": "https://wallethub.com/local-financial-products/"
+      },
+      {
+        "text": "Popular Financial Products",
+        "href": "https://wallethub.com/product-directory/"
+      },
+      {
+        "text": "People Search For",
+        "href": "https://wallethub.com/search-directory/"
+      },
+      {
+        "text": "Gas",
+        "href": "https://wallethub.com/credit-cards/gas/"
+      },
+      {
+        "text": "Store Cards",
+        "href": "https://wallethub.com/credit-cards/store/"
+      },
+      {
+        "text": "Charge Cards",
+        "href": "https://wallethub.com/credit-cards/charge-cards/"
+      },
+      {
+        "text": "Starter Cards",
+        "href": "https://wallethub.com/credit-cards/starter/"
+      },
+      {
+        "text": "Credit Card Reviews",
+        "href": "https://wallethub.com/credit-card-reviews"
+      },
+      {
+        "text": "About Us",
+        "href": "https://wallethub.com/about"
+      },
+      {
+        "text": "Media",
+        "href": "https://wallethub.com/media/"
+      },
+      {
+        "text": "Jobs",
+        "href": "https://wallethub.com/jobs/"
+      },
+      {
+        "text": "Contact Us",
+        "href": "https://wallethub.com/contact/"
+      },
+      {
+        "text": "Studies & Reports",
+        "href": "https://wallethub.com/edu/statistics"
+      },
+      {
+        "text": "Feedback",
+        "href": "https://wallethub.com/feedback/?ref=./join"
+      },
+      {
+        "text": "2026 Best Awards",
+        "href": "https://wallethub.com/awards/"
+      },
+      {
+        "text": "Editorial Policy",
+        "href": "https://wallethub.com/edu/wallethub-editorial-policy/25756"
+      },
+      {
+        "text": "Rating Methodologies",
+        "href": "https://wallethub.com/rating-methodologies"
+      }
+    ]
+  },
+  {
+    "company": "Wolverine Trading",
+    "careers_url": "http://wolve.com/open-positions",
+    "final_url": "https://wolve.com/open-positions",
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "YAZIO",
+    "careers_url": "https://www.yazio.com/en/jobs",
+    "final_url": "https://www.yazio.com/en/open-positions",
+    "scraped_at": "2026-04-25T22:25:49Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "YouCanBook.me Ltd",
+    "careers_url": "https://youcanbook.me/jobs/",
+    "final_url": "https://ycbm.bamboohr.com/careers",
+    "scraped_at": "2026-04-25T22:25:50Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Zaneffi",
+    "careers_url": "https://zaneffi.com/career",
+    "final_url": "https://zaneffi.com/career",
+    "scraped_at": "2026-04-25T22:25:59Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Zemoso",
+    "careers_url": "https://www.zemosolabs.com/open-positions",
+    "final_url": "https://www.zemosolabs.com/open-positions",
+    "scraped_at": "2026-04-25T22:26:00Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Zignaly",
+    "careers_url": "https://discord.com/invite/r5qRXDJ",
+    "final_url": "https://discord.com/invite/r5qRXDJ",
+    "scraped_at": "2026-04-25T22:26:09Z",
+    "error": "insufficient_content",
+    "text": null,
+    "links": []
+  },
+  {
+    "company": "Zolar",
+    "careers_url": "https://www.zolar.de/karriere/stellenangebote",
+    "final_url": "https://boards.eu.greenhouse.io/embed/job_board?for=zolar&b=https%3A%2F%2Fwww.zolar.de%2Fkarriere%2Fstellenangebote",
+    "scraped_at": "2026-04-25T22:26:13Z",
+    "error": "http_404 page not found",
+    "text": null,
+    "links": []
+  }
+]

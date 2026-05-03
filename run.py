@@ -23,7 +23,7 @@ from openpyxl.utils import get_column_letter
 # ---------------------------------------------------------------------------
 
 PROFILE_PATH = Path("profile.json")
-JSONL_PATH = Path("data/scraped_roles.jsonl")
+SCRAPED_PATH = Path("data/scraped_roles.json")
 EXCEL_OUTPUT = Path("data/matched_jobs.xlsx")
 
 log = logging.getLogger("run")
@@ -103,15 +103,13 @@ def scrape_career_pages() -> None:
         n = state["done"]
         if n - state["last"] >= 50 or n == total:
             pct = int(n / total * 100)
-            print(f"  [{n}/{total}] {pct}% — {state['errors']} errors")
+            print(f"  [{n}/{total}] {pct}% - {state['errors']} errors")
             state["last"] = n
 
-    asyncio.run(crawl_all(companies, JSONL_PATH, progress_cb=progress))
+    results = asyncio.run(crawl_all(companies, SCRAPED_PATH, progress_cb=progress))
 
-    if JSONL_PATH.exists():
-        lines = JSONL_PATH.read_text(encoding="utf-8").strip().splitlines()
-        errors = sum(1 for l in lines if '"error": null' not in l)
-        print(f"  Career pages done: {len(lines)} records, {errors} with errors")
+    errors = sum(1 for r in results if r.get("error"))
+    print(f"  Career pages done: {len(results)} records, {errors} with errors")
 
 
 # ===== STAGE 3: Load & score everything ===================================
@@ -132,8 +130,8 @@ def load_db_jobs() -> list[dict]:
 
 
 def load_career_page_jobs() -> list[dict]:
-    """Load career page scrapes from JSONL and extract individual job links."""
-    if not JSONL_PATH.exists():
+    """Load career page scrapes from JSON and extract individual job links."""
+    if not SCRAPED_PATH.exists():
         return []
 
     job_link_re = re.compile(
@@ -144,11 +142,14 @@ def load_career_page_jobs() -> list[dict]:
     )
 
     results = []
-    for line in JSONL_PATH.read_text(encoding="utf-8").strip().splitlines():
-        try:
-            entry = json.loads(line)
-        except json.JSONDecodeError:
-            continue
+    try:
+        raw = json.loads(SCRAPED_PATH.read_text(encoding="utf-8"))
+    except (json.JSONDecodeError, ValueError):
+        return []
+    if not isinstance(raw, list):
+        return []
+
+    for entry in raw:
         if entry.get("error") or not entry.get("text"):
             continue
 
